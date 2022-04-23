@@ -249,11 +249,6 @@ hash = "876e146d48735d020b9b3eb8879290a3460743dbbb48b004f953c22e2987a1c8"
 metafile = true
 
 [[files]]
-file = "mods/eyes-in-the-darkness.toml"
-hash = "4027c84e91b16a057eb4c83c36159265274fff7fe381f6c30ee87c59ce02720c"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.toml"
 hash = "38a7da2e93e5f22e7e18d5d54ef5cae2b74aa5846e8fd8b470624ea790dd18a3"
 metafile = true
