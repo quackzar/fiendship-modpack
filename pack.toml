@@ -1,12 +1,12 @@
 name = "The Power of Fiendship"
 author = "Yours truly"
-version = "0.1.1"
+version = "0.1.2"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6f6e0be2a80fd62e88eb5e25bfc817f0eace9cb4e6794c85bf4c559bf6c1ae9b"
+hash = "9f787821d1948e7f58413eaf2787d81dad2bb49ba4bba14688a778a8b60af4fd"
 
 [versions]
 forge = "40.1.0"
