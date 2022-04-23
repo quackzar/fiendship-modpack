@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-weathering-forge.toml"
-hash = "edc82435768f6ec7e114fb14e6b6e5418179ea05ab6d817b573123a5da31d9dc"
+hash = "eac3136aed070d4fffe0067c3c3227315f802eee5675b892fc515040c89a4d88"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.toml"
-hash = "e65396900d7309a2076d4c5db7734e748e704da97aa5e65b339d69db43fb9735"
+hash = "95b67e8dba15ca5fc05969addfd913c685b9dece06afda24eeaa2c4f84411ceb"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.toml"
-hash = "48f088fa1eff4704067f880fa760107fa622e0898c87e64292d118898def7dbf"
+hash = "b8b80c9aa4e167cd27b632f235b8e8651923fbe064951263cec759390ff25c89"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.toml"
-hash = "b5db1ac85d29279524fbf37afb1419fa1edc0bbf48f72f451b1d32732b6824b6"
+hash = "2ddd205210bc7654a955647442d94c8f6b49d7cefed7f1d6eb4ca2bfaf15484f"
 metafile = true
 
 [[files]]
