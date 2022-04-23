@@ -1217,11 +1217,6 @@ hash = "04a94eb208ede7500449abc8f003df157e1a5020088faf62fce11bfc18246edc"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.toml"
-hash = "7f51ad83dd61f551127758dd969daa0e60318046001e2235f14502d4ce80dd15"
-metafile = true
-
-[[files]]
 file = "mods/immersive-weathering-forge.toml"
 hash = "eac3136aed070d4fffe0067c3c3227315f802eee5675b892fc515040c89a4d88"
 metafile = true
