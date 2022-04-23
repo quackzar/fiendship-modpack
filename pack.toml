@@ -1,6 +1,6 @@
 name = "The Power of Fiendship"
 author = "Yours truly"
-version = "0.1.2"
+version = "0.1.3"
 pack-format = "packwiz:1.0.0"
 
 [index]
