@@ -1,0 +1,13 @@
+name = "Winter Overhaul"
+filename = "winteroverhaul-1.0.0-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3759/980/winteroverhaul-1.0.0-1.18.2.jar"
+hash-format = "sha1"
+hash = "2a7a6304186ca74fa30ec686f93e6f8820d11fd4"
+
+[update]
+[update.curseforge]
+file-id = 3759980
+project-id = 564989

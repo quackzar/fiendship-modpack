@@ -1,0 +1,13 @@
+name = "More Ore Stones [FORGE]"
+filename = "mores-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3681/536/mores-1.3.0.jar"
+hash-format = "sha1"
+hash = "f85b048bfc0052e62c69ac6091b6c6ab530c7fa4"
+
+[update]
+[update.curseforge]
+file-id = 3681536
+project-id = 556697

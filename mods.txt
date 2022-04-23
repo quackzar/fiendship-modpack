@@ -1,0 +1,144 @@
+Mouse Tweaks
+Biomes O' Plenty
+Bookshelf
+Ding
+Immersive Engineering
+AI Improvements
+CoroUtil
+Zombie Awareness
+Just Enough Items (JEI)
+Just Enough Resources (JER)
+NetherPortalFix
+Quark
+ForgeEndertech
+Oh The Biomes You'll Go
+AppleSkin
+AutoRegLib
+Enchantment Descriptions
+Client Tweaks
+Clumps
+CreativeCore
+PlayerRevive
+I Know What I'm Doing (IKWID)
+\"To the Bat Poles!\"
+Better Advancements
+Spice of Life: Carrot Edition
+FPS Reducer
+AttributeFix
+CC: Tweaked
+Placebo
+FastWorkbench
+Paragliders
+Tetra
+Pretty Beaches
+BiomeInfo
+Serene Seasons
+FastFurnace
+Quark Oddities
+Effortless Building
+Kiwi 🥝 (Forge)
+Eyes in the Darkness
+Bedspreads (Forge)
+Snow! Real Magic! ⛄ (Forge)
+Caelus API (Forge)
+Curios API (Forge)
+Curio of Undying (Forge)
+Global Data- & Resourcepacks
+Curious Elytra (Forge)
+The Mighty Architect
+Ambient Environment
+Air Hop [Forge]
+I Like Wood
+Create
+Citadel
+True Darkness
+Collective (Forge)
+More Zombie Villagers (Forge)
+ Cloth Config API (Forge)
+Double Doors (Forge)
+Fishing Real
+Ma Enchants
+Pick Up Notifier [Forge]
+mutil
+Stay True
+Snow Under Trees
+ServerConfig Updater
+Dynamic View[Forge/Fabric]
+Repurposed Structures (Forge)
+Dash
+Leap
+Step
+The Conjurer
+Structure Gel API
+Dramatic Doors
+Motschen's Better Leaves
+GeckoLib
+YUNG's Better Mineshafts (Forge)
+Enchant With Mob
+CleanCut
+Farmer's Delight
+Updated Engineering
+Supplementaries
+Connectible Chains [FORGE]
+YUNG's API (Forge)
+Some Assembly Required
+Alex's Mobs
+Vein Mining (Forge)
+JustTimm's Vanilla Additions Dark GUI Add-On
+Better Third Person
+I Like Wood - Biomes O' Plenty Plugin
+Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons
+Create Crafts & Additions
+Not Enough Crashes (Forge)
+Connected Textures (CTM) Overhaul
+Better Biome Blend
+Easy Magic [Forge]
+Seamless Loading Screen (Forge)
+Chipped
+SlimyFloor
+Configured
+Catalogue
+Lazy DataFixerUpper(LazyDFU) [FORGE]
+Stoneholm, Underground Villages (Forge)
+YUNG's Better Strongholds (Forge)
+Dusk[Forge/Fabric]
+I Like Wood - Oh The Biomes You'll Go Plugin
+FastSuite
+Ore Variants 
+xali's Enchanted Books
+YUNG's Extras (Forge)
+Dungeons Enhanced
+Malum
+Chunky Pregenerator (Forge)
+Flywheel
+My Server Is Compatible
+Puzzles Lib [Forge]
+Farsight [Forge]
+Selene Lib
+Farsighted Mobs (Forge)
+YUNG's Better Dungeons (Forge)
+Terralith 2.0 ~ Overworld Evolved
+Starlight (Forge)
+Balm (Forge Edition)
+Drink Beer (Forge)
+YUNG's Bridges (Forge)
+YDM's CopperGolem
+YDM's Allay 
+No Null Processors
+Crying Portals (Forge)
+Hexerei
+Farmer's Respite
+Better Fps - Render Distance[Forge/Fabric]
+Better Compatibility Checker
+Repurposed Structures - Farmer's Delight Datapack Compat
+More Ore Stones [FORGE]
+Effective (Forge)
+Feature NBT Deadlock Be Gone
+TerraBlender (Forge)
+Winter Overhaul
+Snowy Spirit
+Little Logistics
+Nullscape ~ End Reborn
+Eating Animation [Forge]
+Stay True Modded Compats
+Immersive Weathering [FORGE]

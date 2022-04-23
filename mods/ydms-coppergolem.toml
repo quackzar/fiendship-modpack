@@ -1,0 +1,13 @@
+name = "YDM's CopperGolem"
+filename = "coppergolem-1-18-2b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3571/177/coppergolem-1-18-2b.jar"
+hash-format = "sha1"
+hash = "1e16180e39036964bfc3534d2d2fb6bb06b593e5"
+
+[update]
+[update.curseforge]
+file-id = 3571177
+project-id = 537561

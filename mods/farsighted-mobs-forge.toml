@@ -1,0 +1,13 @@
+name = "Farsighted Mobs (Forge)"
+filename = "farsightedmobs-forge-1.1-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3598/838/farsightedmobs-forge-1.1-1.18.jar"
+hash-format = "sha1"
+hash = "27de70c65201f58c997f28e8a9b5d4b33d14dc36"
+
+[update]
+[update.curseforge]
+file-id = 3598838
+project-id = 506624

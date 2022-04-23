@@ -1,0 +1,13 @@
+name = "JustTimm's Vanilla Additions Dark GUI Add-On"
+filename = "Vanilla_Additions_Dark_GUI_Add-On_1.2.5.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3719/394/Vanilla_Additions_Dark_GUI_Add-On_1.2.5.zip"
+hash-format = "sha1"
+hash = "9325e21db0078763f85689de9477449585e2ef88"
+
+[update]
+[update.curseforge]
+file-id = 3719394
+project-id = 432421

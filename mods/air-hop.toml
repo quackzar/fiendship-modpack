@@ -1,0 +1,13 @@
+name = "Air Hop [Forge]"
+filename = "AirHop-v3.2.0-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3671/164/AirHop-v3.2.0-1.18.2-Forge.jar"
+hash-format = "sha1"
+hash = "c62facf6d233c26f5db9b5fd4b793f2ea09ae8a3"
+
+[update]
+[update.curseforge]
+file-id = 3671164
+project-id = 323071

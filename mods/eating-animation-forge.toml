@@ -1,0 +1,13 @@
+name = "Eating Animation [Forge]"
+filename = "eatinganimation-1.18.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3760/433/eatinganimation-1.18.1-2.0.2.jar"
+hash-format = "sha1"
+hash = "7924410e9835f5c9cd05d497b82a4be88ebcb6ca"
+
+[update]
+[update.curseforge]
+file-id = 3760433
+project-id = 570544

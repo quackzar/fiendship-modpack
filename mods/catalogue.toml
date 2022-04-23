@@ -1,0 +1,13 @@
+name = "Catalogue"
+filename = "catalogue-1.6.1-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3721/991/catalogue-1.6.1-1.18.2.jar"
+hash-format = "sha1"
+hash = "918aeaa1069ac3df1c3c42bf7b042d7ed70d6570"
+
+[update]
+[update.curseforge]
+file-id = 3721991
+project-id = 459701

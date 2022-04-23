@@ -1,0 +1,13 @@
+name = "YDM's Allay "
+filename = "allay-1-18-2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3680/798/allay-1-18-2.jar"
+hash-format = "sha1"
+hash = "238a0139c067c0b050f7950170f5f78c69431a18"
+
+[update]
+[update.curseforge]
+file-id = 3680798
+project-id = 538828

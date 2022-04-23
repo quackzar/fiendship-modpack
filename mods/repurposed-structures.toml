@@ -1,0 +1,13 @@
+name = "Repurposed Structures (Forge)"
+filename = "repurposed_structures_forge-5.1.6+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3759/830/repurposed_structures_forge-5.1.6+1.18.2.jar"
+hash-format = "sha1"
+hash = "b15c5b0e27be878a2c93c16f372668e0cbe0fb02"
+
+[update]
+[update.curseforge]
+file-id = 3759830
+project-id = 368293

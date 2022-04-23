@@ -1,0 +1,13 @@
+name = "Fiendship 2"
+author = "<Name>"
+version = "0.0.1"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5649f2d360377b88e70399b9af9fe7b8866a8e59adefff71b1a651fdd936073f"
+
+[versions]
+forge = "40.0.0"
+minecraft = "1.18.2"

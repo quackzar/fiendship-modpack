@@ -1,0 +1,13 @@
+name = "My Server Is Compatible"
+filename = "MyServerIsCompatible-1.18-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/398/MyServerIsCompatible-1.18-1.0.jar"
+hash-format = "sha1"
+hash = "455200ac38543e609032a14b86e41ca146e98774"
+
+[update]
+[update.curseforge]
+file-id = 3544398
+project-id = 492574

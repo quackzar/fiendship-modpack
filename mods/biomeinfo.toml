@@ -1,0 +1,13 @@
+name = "BiomeInfo"
+filename = "biomeinfo-1.18.2-1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/737/biomeinfo-1.18.2-1.4.jar"
+hash-format = "sha1"
+hash = "bd8251169e0a7765464aade50ded714cd98e9f9f"
+
+[update]
+[update.curseforge]
+file-id = 3669737
+project-id = 291480

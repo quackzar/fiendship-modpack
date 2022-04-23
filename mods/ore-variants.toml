@@ -1,0 +1,13 @@
+name = "Ore Variants "
+filename = "Ore Variants v2.2.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3658/996/Ore%20Variants%20v2.2.zip"
+hash-format = "sha1"
+hash = "4105681ec7760fc9547c375bfc43586210f9a85b"
+
+[update]
+[update.curseforge]
+file-id = 3658996
+project-id = 476719
