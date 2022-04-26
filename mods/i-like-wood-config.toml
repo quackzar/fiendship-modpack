@@ -1,0 +1,13 @@
+name = "I Like Wood - Config"
+filename = "ilikewood-1.18.2-walls.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3722/493/ilikewood-1.18.2-walls.jar"
+hash-format = "sha1"
+hash = "acba3af61636237a2d21fd1f0d7c1b91f50a20cd"
+
+[update]
+[update.curseforge]
+file-id = 3722493
+project-id = 601772

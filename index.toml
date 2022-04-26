@@ -324,6 +324,11 @@ hash = "eb524f5333e5f04543f096db83b8ce20127416a4546e6cba84b43be6467a3c42"
 metafile = true
 
 [[files]]
+file = "mods/i-like-wood-config.toml"
+hash = "36226732e98e0b3f46439ace096699e8db60fd84ddede5dd6dd1eb1a920e244b"
+metafile = true
+
+[[files]]
 file = "mods/i-like-wood-oh-the-biomes-youll-go-plugin.toml"
 hash = "f7eca021e9ee495c2885c6ad5cafe1812fb300a21f15afaeba1400c146322605"
 metafile = true
@@ -376,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/little-logistics.toml"
 hash = "48174d0229b040859f40dd56fc8649b3c831bbb8eb20b19c61cc4f4f901b95cb"
+metafile = true
+
+[[files]]
+file = "mods/login-shield.toml"
+hash = "4f2b51d1ce809142a1c72eb5bd1b4fc4ee8b1ef7e9ad2510c5e8de4165321b83"
 metafile = true
 
 [[files]]
@@ -611,6 +621,11 @@ metafile = true
 [[files]]
 file = "mods/ydms-coppergolem.toml"
 hash = "235dc5596f129015a473231991dd3c4756ceedb99d809a702de4970e1140fe74"
+metafile = true
+
+[[files]]
+file = "mods/ydms-glare.toml"
+hash = "68fe41882596b8738a9c83ee7dc287a387ef8bee206d7e5092d3ae2fe0d7a29f"
 metafile = true
 
 [[files]]
