@@ -429,6 +429,11 @@ hash = "5e49b2e0b45dee49aa655f33398ab23b06a903a8cedb564d37f7aefd58176eae"
 metafile = true
 
 [[files]]
+file = "mods/oculus.toml"
+hash = "948dd53c36ee8214a041e40dfbfaa5d2cefc152a254f2ca57338b3da7e7d6344"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go.toml"
 hash = "99207d710455ccb008004d8676b83fa88aceb31fde78986cf6a7c69fcd50ab3c"
 metafile = true
@@ -489,8 +494,18 @@ hash = "70560884bbc973ccfc6fb85c5568e839730947a378acd1389fb62007bcaaf48d"
 metafile = true
 
 [[files]]
+file = "mods/radon.toml"
+hash = "311c29b7cb903748e41380ab905f260fa8869e9933903d421649e62804c592b0"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.toml"
 hash = "016a444e3ffa5b78d2a1061ac4b09cc415276ee4dfc85255573527fc69338203"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.toml"
+hash = "dfe0eb19201379e6679ce995de8673ef16a4902d9b3dbbef116889e10843a97d"
 metafile = true
 
 [[files]]
