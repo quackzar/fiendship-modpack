@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.toml"
-hash = "8ecb5ca0d1af975c81740710a56b91a7822305d8b1ea422d21d165e995f412c6"
+hash = "b053a94a3dae70d2c8716b85d3ebe28fce8b238de170ce8c4e6ac3424b995c0d"
 metafile = true
 
 [[files]]
@@ -151,11 +151,6 @@ metafile = true
 [[files]]
 file = "mods/connectible-chains-forge.toml"
 hash = "75f3aec1ad0f9c8325dd1a517474a91a59e2f2b9fe916b22c611cd446f03ed25"
-metafile = true
-
-[[files]]
-file = "mods/controlling.toml"
-hash = "c69828c3b36750e806e3c7e7325c6e0fa0e8568fada8e5401382fce1b4a9c590"
 metafile = true
 
 [[files]]
@@ -430,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.toml"
-hash = "948dd53c36ee8214a041e40dfbfaa5d2cefc152a254f2ca57338b3da7e7d6344"
+hash = "bc01b811ea2bd5eb73e84b23e1b9d539beaadf8039ab2f5c31180be597850aac"
 metafile = true
 
 [[files]]
@@ -441,16 +436,6 @@ metafile = true
 [[files]]
 file = "mods/ore-variants.toml"
 hash = "21946511930879ad8eeb3cfa319a69b50a71adb00fad8dbe45abd647555d80fb"
-metafile = true
-
-[[files]]
-file = "mods/oreganized-mod.toml"
-hash = "3e1d43c4740df945dcb0838d339cfbfd62deabb6d5eb6da22ec8d5ba71066b5b"
-metafile = true
-
-[[files]]
-file = "mods/overweight-farming.toml"
-hash = "944002aa722bc3e93ace00cf10c32cb018456cf09d59ccef384fe6d227002e23"
 metafile = true
 
 [[files]]
@@ -495,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/radon.toml"
-hash = "311c29b7cb903748e41380ab905f260fa8869e9933903d421649e62804c592b0"
+hash = "14fa122ca88e78f4d3efa6a4f441b18f00ba1be3af029a4290cab4c5d385527c"
 metafile = true
 
 [[files]]
@@ -505,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.toml"
-hash = "dfe0eb19201379e6679ce995de8673ef16a4902d9b3dbbef116889e10843a97d"
+hash = "fc2cfa3d89dafa655ff8e7600dbfa246d7108ceba3c6734f7cef157b001568b3"
 metafile = true
 
 [[files]]
@@ -574,11 +559,6 @@ hash = "88c8cd9a3393bda72809f3a82405a0c92773e3a11dcba4adbab8e6d6c9752eb8"
 metafile = true
 
 [[files]]
-file = "mods/storage-drawers.toml"
-hash = "0d53d2ecdc2cd09e00e255921caccb2a72d2a21f40f589bf0381df43d041ce9c"
-metafile = true
-
-[[files]]
 file = "mods/structure-gel-api.toml"
 hash = "2ddd205210bc7654a955647442d94c8f6b49d7cefed7f1d6eb4ca2bfaf15484f"
 metafile = true
@@ -621,11 +601,6 @@ metafile = true
 [[files]]
 file = "mods/winter-overhaul.toml"
 hash = "19fdd51c3abc48de6316b74844be245ebb67819745bf4bd39e84ec8199e5c088"
-metafile = true
-
-[[files]]
-file = "mods/wthit-forge.toml"
-hash = "4257c0c02317f76a52de544eb19010311fbe291e2fbde5e49a2ffe9df487a4b7"
 metafile = true
 
 [[files]]
