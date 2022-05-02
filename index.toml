@@ -19,6 +19,11 @@ hash = "6339775c511dc4eac87aa46e2fbe8238c3061690e9aaa5c5151a55f8bf5ab251"
 metafile = true
 
 [[files]]
+file = "mods/alexs-delight.toml"
+hash = "dcad16701affa2780bbf3a7cb63d12464a50e4ba867c8d976384317016b0b79a"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.toml"
 hash = "472bc4800e89151d3f849af1ad916f59e0e9fc98cdd28cb40a287b5bf5b2c3a7"
 metafile = true
@@ -293,6 +298,11 @@ hash = "c4964d4245aba541dae2ae67c1fc270289e20cad724729e5426966f364161fa1"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.toml"
+hash = "8a916670e5a79e9ed864fbb21bef4530b5cdf2f132d24dd748dd47c4930759ef"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.toml"
 hash = "76007facfe5621e19dbfa27bfa9898a03ffe0b8883dafd8750c565146d1f7213"
 metafile = true
@@ -433,6 +443,11 @@ hash = "3a6b395fb88e765c30e2fad1362931b813471a1a590b16525dd55aba9e162e4d"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.toml"
+hash = "3c1a9d5180d2a10e6241c6daaef5bf277c57aab4f03d5bc2764136bf6d13c68f"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-crashes-forge.toml"
 hash = "5e49b2e0b45dee49aa655f33398ab23b06a903a8cedb564d37f7aefd58176eae"
 metafile = true
@@ -498,11 +513,6 @@ hash = "76c7b43542ee9a67f927aeb7ba569c1de1c68766dbaecad391233021679acee0"
 metafile = true
 
 [[files]]
-file = "mods/radon.toml"
-hash = "14fa122ca88e78f4d3efa6a4f441b18f00ba1be3af029a4290cab4c5d385527c"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures.toml"
 hash = "016a444e3ffa5b78d2a1061ac4b09cc415276ee4dfc85255573527fc69338203"
 metafile = true
@@ -530,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/serverconfig-updater.toml"
 hash = "cfd2e8693c9b62ff243cf5b69d3e8d578f4052b105084d89a96dbb12bf677278"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.toml"
+hash = "ce3a44bb3032e2d66614a4f6472a93c7b3590b075b0ca45bdd107ed5ece434da"
 metafile = true
 
 [[files]]
