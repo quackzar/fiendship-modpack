@@ -449,6 +449,11 @@ hash = "3823dd4f6480515a65ce648b6cc3c42c64bb0f2686774e261ae3ce2cb4777f7e"
 metafile = true
 
 [[files]]
+file = "mods/ortuslib.toml"
+hash = "dac7c8127634dbd2e7f5b826def2c347692622b7477f64463f94aaf1a0f2e11d"
+metafile = true
+
+[[files]]
 file = "mods/paragliders.toml"
 hash = "8c110a97a1d522bd78b156f7ffdb21b826c5de3e7ea1b8d8d960ad261f4d23d0"
 metafile = true
