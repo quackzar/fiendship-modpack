@@ -144,6 +144,10 @@ hash = "5f2e4f84c7b7c0d2cac9a717323031292ce018e7992333620cb2fc12627b5e46"
 metafile = true
 
 [[files]]
+file = "mods/completmentary-shaders.toml"
+hash = "65c01c084a53621e1d00ba34efc36953c8027a0dc7f375b622e176627e2f3139"
+
+[[files]]
 file = "mods/configured.toml"
 hash = "07a20eec8ea56cae6e0582350de0bcccfd21530e3708fdf68ba55ce654b9320a"
 metafile = true
@@ -565,7 +569,12 @@ metafile = true
 
 [[files]]
 file = "mods/stay-true-modded-compats.toml"
-hash = "695526de771c5a7fe61c02a89a6cc32299203549d94de38b4f96380e19c9ead3"
+hash = "8bcc27d62e60b3a4bac3513e7a3d773140887de9ab512a1c715a171a34b54fe9"
+metafile = true
+
+[[files]]
+file = "mods/stay-true.toml"
+hash = "5fd553258cabc90b387f7386ed251d91d1e0079b21289e88361bf8db5ca9c70a"
 metafile = true
 
 [[files]]
