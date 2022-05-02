@@ -1,13 +1,13 @@
 name = "Enchant With Mob"
-filename = "enchantwithmob-1.18.2-4.0.3.jar"
+filename = "enchantwithmob-1.18.2-4.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3760/42/enchantwithmob-1.18.2-4.0.3.jar"
+url = "https://edge.forgecdn.net/files/3770/32/enchantwithmob-1.18.2-4.1.0.jar"
 hash-format = "sha1"
-hash = "73ec6a6710221e083c5454b32ec6cf1104560640"
+hash = "fed38d8f87ebc27d7438e96bfa8b611d8edb8d92"
 
 [update]
 [update.curseforge]
-file-id = 3760042
+file-id = 3770032
 project-id = 391187

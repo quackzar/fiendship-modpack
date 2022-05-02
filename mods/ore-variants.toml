@@ -1,13 +1,13 @@
 name = "Ore Variants "
-filename = "Ore Variants v2.2.zip"
+filename = "Ore_Variants_v2.3.zip"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3658/996/Ore%20Variants%20v2.2.zip"
+url = "https://edge.forgecdn.net/files/3771/650/Ore_Variants_v2.3.zip"
 hash-format = "sha1"
-hash = "4105681ec7760fc9547c375bfc43586210f9a85b"
+hash = "76ac439f82726a927c66707d704f35e83993b6ba"
 
 [update]
 [update.curseforge]
-file-id = 3658996
+file-id = 3771650
 project-id = 476719
