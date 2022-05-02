@@ -1,0 +1,13 @@
+name = "Overweight Farming"
+filename = "overweightfarming-1.18.2-1.2.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3753/570/overweightfarming-1.18.2-1.2.1-forge.jar"
+hash-format = "sha1"
+hash = "79b114beefd4175a8bd0eb29af0465e4316cadcb"
+
+[update]
+[update.curseforge]
+file-id = 3753570
+project-id = 591666

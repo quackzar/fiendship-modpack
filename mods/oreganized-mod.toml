@@ -1,0 +1,12 @@
+name = "Oreganized Mod"
+filename = "oreganized-1.18.2-1.0.0-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3741/598/oreganized-1.18.2-1.0.0-hotfix.jar"
+hash-format = "sha1"
+
+[update]
+[update.curseforge]
+file-id = 3741598
+project-id = 439153

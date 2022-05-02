@@ -468,8 +468,17 @@ hash = "3823dd4f6480515a65ce648b6cc3c42c64bb0f2686774e261ae3ce2cb4777f7e"
 metafile = true
 
 [[files]]
+file = "mods/oreganized-mod.toml"
+metafile = true
+
+[[files]]
 file = "mods/ortuslib.toml"
 hash = "dac7c8127634dbd2e7f5b826def2c347692622b7477f64463f94aaf1a0f2e11d"
+metafile = true
+
+[[files]]
+file = "mods/overweight-farming.toml"
+hash = "944002aa722bc3e93ace00cf10c32cb018456cf09d59ccef384fe6d227002e23"
 metafile = true
 
 [[files]]
