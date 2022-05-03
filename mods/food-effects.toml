@@ -1,0 +1,13 @@
+name = "Food Effects"
+filename = "foodeffects-1.18.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3765/35/foodeffects-1.18.2-1.1.1.jar"
+hash-format = "sha1"
+hash = "00310296ea593336dc56e8cf6726915b8de1dadd"
+
+[update]
+[update.curseforge]
+file-id = 3765035
+project-id = 452816
