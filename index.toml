@@ -323,6 +323,11 @@ hash = "76007facfe5621e19dbfa27bfa9898a03ffe0b8883dafd8750c565146d1f7213"
 metafile = true
 
 [[files]]
+file = "mods/food-effects.toml"
+hash = "ec28be0c84943eeb455f2f998d3c7efdfd93594efe25aadf397ae4ff2783c327"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.toml"
 hash = "239badbf9de896ec0a17270a1c2627d8c8cb4d1ed1c76d5f0ea83d242e4169a9"
 metafile = true
@@ -378,6 +383,11 @@ hash = "6dbe600e847b1f126e5d88567c97d7f323e7dad7153ad795a3a4a9a327ecfc3d"
 metafile = true
 
 [[files]]
+file = "mods/jade.toml"
+hash = "6fe0315e8e201652e0ce05476fb5e15b8cf618e5dc981999a7903ac7750cd0b9"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "baa637b0039a6b0449ca48029f9c862bce52486753576eb174391d925c4c5fc5"
 metafile = true
@@ -415,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/login-shield.toml"
 hash = "4f2b51d1ce809142a1c72eb5bd1b4fc4ee8b1ef7e9ad2510c5e8de4165321b83"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.toml"
+hash = "bd596d7efab9952edf30ade6e38cb956b712d0392a544770b540463c2aca4d98"
 metafile = true
 
 [[files]]
@@ -549,6 +564,11 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen-forge.toml"
 hash = "f5efeafd0d8e9de493cac03aef2ae8383f10d17225dbee9f806b68b31fc06e4f"
+metafile = true
+
+[[files]]
+file = "mods/second-chance-forge.toml"
+hash = "e5879c2ea8f3ecb133bc30cf288c91f853bd5cdb57e98535683c2aae545a282c"
 metafile = true
 
 [[files]]

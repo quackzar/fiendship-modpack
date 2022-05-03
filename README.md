@@ -14,6 +14,7 @@ Future interest.
 - ~~YUNG's mods~~
 - Tetra
 - Thaumcraft
+- Infernal Expansion
 
 ## TODO
 - Fix I Like Wood's config
