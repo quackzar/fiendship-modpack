@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-weathering-forge.toml"
-hash = "bab62ba326f115903f63bf22f2103109f25c9c42bf6702b18fdf3e3125936fdb"
+hash = "1c722f2d1a340805d3228f69fe6e61732d7aaf66d5525444b35cc5d909526da4"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.toml"
-hash = "9f6a29769d41f33b88d30e49f56dc219859c17c1555cb52eb86c0947facea0e9"
+hash = "7779a8eb0b45f12034648b42893776d1be3f020b35633235ac5ec0f2a18f0291"
 metafile = true
 
 [[files]]
@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/to-the-bat-poles.toml"
-hash = "72ca76afb0c1b13196824696845692b94ba6ead3170370fb37b981109be9405c"
+hash = "422744aac6ab30bc9f7a34c70b96d4250c3ab93613c5a340cf3155d87dcd18f1"
 metafile = true
 
 [[files]]
