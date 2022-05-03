@@ -163,6 +163,11 @@ hash = "75f3aec1ad0f9c8325dd1a517474a91a59e2f2b9fe916b22c611cd446f03ed25"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.toml"
+hash = "fd706d0d9d0aa88902a070d36c9fabee0367cb8db362fc235f8d4143a10a9db5"
+metafile = true
+
+[[files]]
 file = "mods/create.toml"
 hash = "d94c566ce078b51f5ce58f01e770452ea6ecd0427682dd9037a7046e7d01e4d1"
 metafile = true
@@ -438,6 +443,11 @@ hash = "2e5a2d4eddfab4c107337adc3632d1fae121f52d267f42c40cc6129ae5d8605c"
 metafile = true
 
 [[files]]
+file = "mods/mysterious-mountain-lib.toml"
+hash = "ef8e8ff6a67f778f894e44f3c39f0ea5bc5c5a502efcb5e3619a9206f8855b57"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.toml"
 hash = "3a6b395fb88e765c30e2fad1362931b813471a1a590b16525dd55aba9e162e4d"
 metafile = true
@@ -669,4 +679,29 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.toml"
 hash = "6f24d5a392a84f9dc4ddf23059cb682b02e2726d0385e45944bb313a525ecadc"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.toml"
+hash = "4b38880c4b1ca255de069603c8ef4cc08d37482342acc8efc9f9b92af190af4c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.toml"
+hash = "eccad8237369496cba901688946b93df1a83ad320fe39dd58bb4dac946946b60"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.toml"
+hash = "fd04c4fb5c48a6c5db71601a259d9076f2f07b66b035572716c89d754b385447"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.toml"
+hash = "041bb4c880fd6f2be7da5af999b228f6db7753f2bb0e90c0e90ad8eb9325cfb7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.toml"
+hash = "024beca071ea5c889bc3c15bf2e0ca9332bc2015decc03c68c512cf89ef435b5"
 metafile = true
