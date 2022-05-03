@@ -657,6 +657,11 @@ hash = "953af392554e0c4826aacfd0ce89f9fcde86d1cfc2f5b60024766a75e6340890"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise.toml"
+hash = "1cd58a3baee4b284ff0e06b7f227ba861b6b9a36485be01421e2df3596390cce"
+metafile = true
+
+[[files]]
 file = "mods/winter-overhaul.toml"
 hash = "19fdd51c3abc48de6316b74844be245ebb67819745bf4bd39e84ec8199e5c088"
 metafile = true
