@@ -5,12 +5,13 @@ A fiendish modpack for all your friendly fiends.
 These mods are under consideration for the fear of instability/incompatibility.
 - https://www.curseforge.com/minecraft/mc-mods/ksyxis
 - https://www.curseforge.com/minecraft/mc-mods/alternate-current
+- Lucent + Hardcore Torches, might provide a cool "hardcore" experience.
 
 Future interest.
 - https://www.curseforge.com/minecraft/mc-mods/distant-horizons
 
 ## Mods waiting update
-- YUNG's mods
+- ~~YUNG's mods~~
 - Tetra
 - Thaumcraft
 
@@ -21,4 +22,5 @@ Future interest.
 - Auto disable flywheel when using shaders
 - Rubidium (Sodium) and Oculus (Iris): No CTM and bugs with "Snow real magic" and others.
 - Consider use of Optifine vs the above. Optifine is probably slower, but has more compatibility.
+
 

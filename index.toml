@@ -423,11 +423,6 @@ hash = "c272da970346ceff10014ad3da81eb52dd0dc318ae399137475d7d7cbbdb1219"
 metafile = true
 
 [[files]]
-file = "mods/mores-forge.toml"
-hash = "709d51d8592ea6f5b7a21898ce19fd66ec70627b062f3b30ef9c7f44fc138f31"
-metafile = true
-
-[[files]]
 file = "mods/motschens-better-leaves.toml"
 hash = "ba49059e69e85014c0ffac04781ca374f1b77f52e752eed720f38aecdd62dd1b"
 metafile = true
