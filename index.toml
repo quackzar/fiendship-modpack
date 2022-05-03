@@ -94,6 +94,11 @@ hash = "97151781cb07c52dc82c4ac54b922c4b052a907045e88259ca307ef31d38ef9e"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.toml"
+hash = "7dcc4de2073e8a43f50b590e8f01b6c6b0a070867b6ef6924c14a1d152904b59"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.toml"
 hash = "f4b7ac9b2b6e100adc82e36fa0da8ddd9d1baa63a98b658b4dbb6690b456ca2d"
 metafile = true
@@ -146,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/collective.toml"
 hash = "5f2e4f84c7b7c0d2cac9a717323031292ce018e7992333620cb2fc12627b5e46"
+metafile = true
+
+[[files]]
+file = "mods/compat-o-plenty.toml"
+hash = "0c1c764111b6cae9f59b7dd097dcbecb49da1fc4bcc83fbd642b0353d9177375"
 metafile = true
 
 [[files]]

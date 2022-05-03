@@ -1,0 +1,13 @@
+name = "Blueprint"
+filename = "blueprint-1.18.2-5.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3756/782/blueprint-1.18.2-5.3.2.jar"
+hash-format = "sha1"
+hash = "aa8b7c63fc6117fda520666d06666fafcfc0dd62"
+
+[update]
+[update.curseforge]
+file-id = 3756782
+project-id = 382216
