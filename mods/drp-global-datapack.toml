@@ -1,13 +1,13 @@
 name = "Global Data- & Resourcepacks"
-filename = "Global Data-  Resourcepacks-forge-1.18.2-1.12.jar"
+filename = "global_packs-forge-1.18.2-1.12.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3680/994/Global%20Data-%20%20Resourcepacks-forge-1.18.2-1.12.jar"
+url = "https://edge.forgecdn.net/files/3779/86/global_packs-forge-1.18.2-1.12.2.jar"
 hash-format = "sha1"
-hash = "ac22c3237adf01db2ad746e8749ce1c6db1d9629"
+hash = "8e0407e943ce686bb2bd6a64457846d6c9c16a35"
 
 [update]
 [update.curseforge]
-file-id = 3680994
+file-id = 3779086
 project-id = 317134

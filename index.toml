@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.toml"
-hash = "347d9da83b89d33bc379217550bb60ec198734ca61da5bd2acd3332d4641a2ff"
+hash = "ca3e6f25af7b49a1d1c98f671d181e38efa1c5710e97a0e3a8a248c46b0432f2"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/drp-global-datapack.toml"
-hash = "0ee697c8511b226920fa24b5c048d18d76ab0d999f14b142a2159a6e30375156"
+hash = "6e2165a598b244fc85c8af431d85a934161249470be091c6e2b2c11c6b50912d"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.toml"
-hash = "1c4e6cc752b3feb5a98308a111e76e6be4bf8ea2997f570cd583140d9e00b1fa"
+hash = "22161149d34b94720ae82e680578fbd08d6b9caa01c49005e4bde0a3fdc15cf7"
 metafile = true
 
 [[files]]
@@ -698,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.toml"
-hash = "1cd58a3baee4b284ff0e06b7f227ba861b6b9a36485be01421e2df3596390cce"
+hash = "c9b656cfbee5e5bb27af36664d596d55c87254d1fa1bc0e1cb2fe3617305a28e"
 metafile = true
 
 [[files]]
@@ -728,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.toml"
-hash = "6f24d5a392a84f9dc4ddf23059cb682b02e2726d0385e45944bb313a525ecadc"
+hash = "7eb429287a0ea5a8b8ef51eeccfafc4e7364076b3273ebe5bb124efe4c3ebd66"
 metafile = true
 
 [[files]]
