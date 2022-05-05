@@ -5,6 +5,7 @@ side = "both"
 [download]
 url = "https://edge.forgecdn.net/files/3741/598/oreganized-1.18.2-1.0.0-hotfix.jar"
 hash-format = "sha1"
+hash = "9b01e1860653de3e4bb80fa6fe37da68cd720953"
 
 [update]
 [update.curseforge]

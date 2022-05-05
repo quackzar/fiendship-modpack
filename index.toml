@@ -504,6 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/oreganized-mod.toml"
+hash = "3e1d43c4740df945dcb0838d339cfbfd62deabb6d5eb6da22ec8d5ba71066b5b"
 metafile = true
 
 [[files]]
