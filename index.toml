@@ -393,6 +393,11 @@ hash = "baa637b0039a6b0449ca48029f9c862bce52486753576eb174391d925c4c5fc5"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.toml"
+hash = "a21cc73ec8d34e1e34c66886b191c7622d4f2ff35a347883cbc080f3b4877771"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "612546b072b0483dc182b77d0eec453a0b1f0967f1487b092ac6b183dac7ac61"
 metafile = true
@@ -572,6 +577,11 @@ hash = "e5879c2ea8f3ecb133bc30cf288c91f853bd5cdb57e98535683c2aae545a282c"
 metafile = true
 
 [[files]]
+file = "mods/seeds.toml"
+hash = "d9f22b4456e4321c02635f241bab0666f61b177e46c9b3ad847821140678ea94"
+metafile = true
+
+[[files]]
 file = "mods/selene.toml"
 hash = "7779a8eb0b45f12034648b42893776d1be3f020b35633235ac5ec0f2a18f0291"
 metafile = true
@@ -647,6 +657,11 @@ hash = "b2f0519b8c54faa6d65a9c30e1713b31a0c0b51ee34a9fd31f864254a02f976b"
 metafile = true
 
 [[files]]
+file = "mods/stylish-effects.toml"
+hash = "4be4f0f6750a5db14cf27f892be2059461e672211f4bdd2c4c82505157c8775d"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.toml"
 hash = "298f7a7978b4b212cd50443cb6c690bc761b45520430eaad779966c0448b7efc"
 metafile = true
@@ -689,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/winter-overhaul.toml"
 hash = "19fdd51c3abc48de6316b74844be245ebb67819745bf4bd39e84ec8199e5c088"
+metafile = true
+
+[[files]]
+file = "mods/world-stripper.toml"
+hash = "c1b73b6094789379ef3996b3aa82ac5816b7284aacd145981bc7434b26949489"
 metafile = true
 
 [[files]]

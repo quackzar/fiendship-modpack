@@ -7,6 +7,9 @@ These mods are under consideration for the fear of instability/incompatibility.
 - https://www.curseforge.com/minecraft/mc-mods/alternate-current
 - Lucent + Hardcore Torches, might provide a cool "hardcore" experience.
 
+World gen that might be too much.
+- When Dungeons Arise
+
 Future interest.
 - https://www.curseforge.com/minecraft/mc-mods/distant-horizons
 
