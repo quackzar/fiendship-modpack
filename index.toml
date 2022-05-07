@@ -766,3 +766,7 @@ metafile = true
 file = "mods/yungs-extras.toml"
 hash = "024beca071ea5c889bc3c15bf2e0ca9332bc2015decc03c68c512cf89ef435b5"
 metafile = true
+
+[[files]]
+file = "shaders/ComplementaryShaders_v4.4.zip.txt"
+hash = "9abc0d7a70dabb4cd9c087ac47a95b4e5c893fe0be0f7588ad35ad819fbcc838"
