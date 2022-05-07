@@ -13,11 +13,8 @@ jobs:
     runs-on: "avionixg/packwiz"
 
     steps:
-      # ...
-      - name: "Build & test"
-        run: |
-          packwiz cf export
-
+      - name: "Export curseforge"
+        run: packwiz cf export
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           automatic_release_tag: "latest"
