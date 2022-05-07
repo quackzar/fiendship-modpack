@@ -273,6 +273,11 @@ hash = "876e146d48735d020b9b3eb8879290a3460743dbbb48b004f953c22e2987a1c8"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.toml"
+hash = "e60ee9af09bbc8bc5cb00e6c21ac069320215801f489bb215d5916b592d6a63b"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.toml"
 hash = "755cfe6f291507654f151fc77c021deef5a36c92658cf614e5dd6258547ba84c"
 metafile = true
@@ -480,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.toml"
 hash = "3c1a9d5180d2a10e6241c6daaef5bf277c57aab4f03d5bc2764136bf6d13c68f"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.toml"
+hash = "43220a6fbc7a2fd78db64bd6d6a487c06d37030f3de2a94bbabfc0eec8ee5178"
 metafile = true
 
 [[files]]
