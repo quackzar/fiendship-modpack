@@ -1,0 +1,27 @@
+# This is a basic workflow to help you get started with Actions
+
+name: "tagged-release"
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  tagged-release:
+    name: "Tagged Release"
+    runs-on: "avionixg/packwiz"
+
+    steps:
+      # ...
+      - name: "Build & test"
+        run: |
+          packwiz cf export
+
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          automatic_release_tag: "latest"
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: true
+          files: "*.zip"
+          
