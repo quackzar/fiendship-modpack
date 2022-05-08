@@ -1,0 +1,13 @@
+name = "Hexerei"
+filename = "hexerei-0.1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3775/805/hexerei-0.1.18.jar"
+hash-format = "sha1"
+hash = "a6f82d611d54dc6bf264ae6cd54e139ea7030037"
+
+[update]
+[update.curseforge]
+file-id = 3775805
+project-id = 548599

@@ -1,0 +1,13 @@
+name = "JEI Enchantment Info"
+filename = "JEIEnchantmentInfo-1.17.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3751/434/JEIEnchantmentInfo-1.17.1-2.0.0.jar"
+hash-format = "sha1"
+hash = "de3a61767718537650043495846bd67fa6bd65b6"
+
+[update]
+[update.curseforge]
+file-id = 3751434
+project-id = 392748

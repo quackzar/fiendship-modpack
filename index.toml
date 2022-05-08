@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml.disabled"
+hash = "3fca62348b19b39080780e2feaa2cd06ceffcd159142c555eec2b54fc1b31c4d"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "dea9f9befa886476dc37e0ca674d3e905ced07d1966a91dde0b2427e24cb42ce"
+
+[[files]]
 file = "ids.txt"
 hash = "1a689ff9d1882a84f4f87aa9f428bd7eccefc46bf2f453508d21126836ce3bbf"
 
@@ -348,6 +356,11 @@ hash = "f725cf619b316267930a2b1960a06f88e1bb11979e65ff4ed202a46ef661270c"
 metafile = true
 
 [[files]]
+file = "mods/hexerei.toml"
+hash = "d03f2011067ca8dca194946f22896afdb1a38a04c11a38a323c0611ace71badc"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.toml"
 hash = "42093570f3f30594eb0979f85d1fb270300e75e34917533db0955f66b00a4800"
 metafile = true
@@ -390,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/jade.toml"
 hash = "6fe0315e8e201652e0ce05476fb5e15b8cf618e5dc981999a7903ac7750cd0b9"
+metafile = true
+
+[[files]]
+file = "mods/jei-enchantment-info.toml"
+hash = "f8a08bf06e6cd9844113dc974fde1480e0a8ea61f981184268cc97f986e73265"
 metafile = true
 
 [[files]]
