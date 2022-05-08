@@ -17,6 +17,11 @@ file = "mods.txt"
 hash = "9315a31725693bb8dba018ec785eca211e546b4836c968eacbbecf860e020b02"
 
 [[files]]
+file = "mods/additional-additions-forge.toml"
+hash = "3b968845dee319f87c19c383e38048fb57ad15a2fa39f11e451972c17c4a0739"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.toml"
 hash = "6367b9ffc915d72196b1f60286134e3eb61d5fd0f1eaf78b177e2a01bc970c28"
 metafile = true
@@ -246,6 +251,11 @@ hash = "6e2165a598b244fc85c8af431d85a934161249470be091c6e2b2c11c6b50912d"
 metafile = true
 
 [[files]]
+file = "mods/duckling.toml"
+hash = "0a754f37ceddc7d24cd379f462520ca5425ff1bc3004f52e596296ee6945af3b"
+metafile = true
+
+[[files]]
 file = "mods/dusk.toml"
 hash = "c7782b082ddf416d9cad21f2d6d947d384bb6a154796df1d76a3f42e7f19efc5"
 metafile = true
@@ -263,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation-forge.toml"
 hash = "7662f069c4f5119a7c8b2d87a0f43b194c5e4f2e0c0e1aa11a4e249e0dd3ebcc"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.toml"
+hash = "97983d69098164f48e6ba2805f4c7dc4a8f122cba6db263a1926ae1458a9fc0e"
 metafile = true
 
 [[files]]
@@ -603,11 +618,6 @@ metafile = true
 [[files]]
 file = "mods/second-chance-forge.toml"
 hash = "e5879c2ea8f3ecb133bc30cf288c91f853bd5cdb57e98535683c2aae545a282c"
-metafile = true
-
-[[files]]
-file = "mods/seeds.toml"
-hash = "d9f22b4456e4321c02635f241bab0666f61b177e46c9b3ad847821140678ea94"
 metafile = true
 
 [[files]]

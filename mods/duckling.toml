@@ -1,0 +1,13 @@
+name = "Duckling"
+filename = "duckling-1.0.4-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3776/923/duckling-1.0.4-forge.jar"
+hash-format = "sha1"
+hash = "ea8fa6ebf0a4a208792e2352770e42b64bdcc18b"
+
+[update]
+[update.curseforge]
+file-id = 3776923
+project-id = 597248
