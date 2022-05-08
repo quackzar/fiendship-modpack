@@ -601,6 +601,11 @@ hash = "bc1d55321fa646e916a03cfaac3c683180e0ce1a6e8793e32893fcd657263ddc"
 metafile = true
 
 [[files]]
+file = "mods/radium-reforged.toml"
+hash = "288f0fd990907203497e7462380a30cb3f87b5b3da8acd636241a20a087e589f"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.toml"
 hash = "016a444e3ffa5b78d2a1061ac4b09cc415276ee4dfc85255573527fc69338203"
 metafile = true
