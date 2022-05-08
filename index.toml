@@ -33,12 +33,12 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-delight.toml"
-hash = "dcad16701affa2780bbf3a7cb63d12464a50e4ba867c8d976384317016b0b79a"
+hash = "b20d1b611c1d331e3d015f44d942bbfb5838b777dab1fd11b2726fa41a940a5f"
 metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.toml"
-hash = "472bc4800e89151d3f849af1ad916f59e0e9fc98cdd28cb40a287b5bf5b2c3a7"
+hash = "321f3d35ba976970632c91b9508cd09e28eec5f4b56fbe1e79592c83889f527a"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "73f4191c907260db5f5c4cad69eb2dac89649c76668c8e11bb718b18e521ed57"
+hash = "b580d42f92b7672d8fb7ccc32c04aa2637a28bd40bd68874e7b3b90a070eb805"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.toml"
-hash = "22161149d34b94720ae82e680578fbd08d6b9caa01c49005e4bde0a3fdc15cf7"
+hash = "ec98275ad4d66ab877dd80b496823bfdb0d422a896d8c38a44af85899554ebdf"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.toml"
-hash = "a6ddf6c6dd6f90f4e6f4912b3d700165565f9661bb80741bf7e941f7d7a156b5"
+hash = "fee6e3878adeb041dbb942fbc58587b7bc634822dc7627b3436e5fadc8b0afb4"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "76c7b43542ee9a67f927aeb7ba569c1de1c68766dbaecad391233021679acee0"
+hash = "bc1d55321fa646e916a03cfaac3c683180e0ce1a6e8793e32893fcd657263ddc"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.toml"
-hash = "eccad8237369496cba901688946b93df1a83ad320fe39dd58bb4dac946946b60"
+hash = "87d94687853687dbbd3f2a83c277e41ff387f1f759eabca7f926e5de9c152a2b"
 metafile = true
 
 [[files]]
