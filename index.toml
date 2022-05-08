@@ -366,6 +366,11 @@ hash = "da9de39606b2f793bbe70bfc4039dc8f6c8feff4ac96c0bbc193447320bbc52a"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-forge.toml"
+hash = "a5c83f134e247a79970061b9426951b61363c3417594f5ea2f7ffd5e0f6ed5f6"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "f725cf619b316267930a2b1960a06f88e1bb11979e65ff4ed202a46ef661270c"
 metafile = true
@@ -636,6 +641,11 @@ hash = "3957eb679c4c79ccdbc71f5c3d54ba572bb15b6d87bc72c94a2d6efc8538d434"
 metafile = true
 
 [[files]]
+file = "mods/server-tab-info.toml"
+hash = "617a9bf9aff26d7eb532b50185d92242d78ca86abc594c8facc8b3e8404df84e"
+metafile = true
+
+[[files]]
 file = "mods/serverconfig-updater.toml"
 hash = "cfd2e8693c9b62ff243cf5b69d3e8d578f4052b105084d89a96dbb12bf677278"
 metafile = true
@@ -758,16 +768,6 @@ metafile = true
 [[files]]
 file = "mods/ydms-allay.toml"
 hash = "fed2881b0436a08fca527d5adb0ec567403c8c6aef3a7f90e97961a546f2aa81"
-metafile = true
-
-[[files]]
-file = "mods/ydms-coppergolem.toml"
-hash = "235dc5596f129015a473231991dd3c4756ceedb99d809a702de4970e1140fe74"
-metafile = true
-
-[[files]]
-file = "mods/ydms-glare.toml"
-hash = "68fe41882596b8738a9c83ee7dc287a387ef8bee206d7e5092d3ae2fe0d7a29f"
 metafile = true
 
 [[files]]
