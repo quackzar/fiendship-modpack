@@ -681,6 +681,11 @@ hash = "b50a5606771c01ffe1bd2cba98db918a905fe727f932edb5f406bc9514926ff8"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.toml"
+hash = "34ab03585810c8cf15f8419af9483d96f4936ec631f37272af70ba1501a5aaa9"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-carrot-edition.toml"
 hash = "9e114467c18d6abe2914065c7141b438e4afa9fb1871c1433984af404956a382"
 metafile = true
@@ -748,6 +753,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.toml"
 hash = "953af392554e0c4826aacfd0ce89f9fcde86d1cfc2f5b60024766a75e6340890"
+metafile = true
+
+[[files]]
+file = "mods/waterdripsound.toml"
+hash = "966cd68fee9de905b0cb855cfb02396549c68b30d119091a138e8126b8704eec"
 metafile = true
 
 [[files]]
