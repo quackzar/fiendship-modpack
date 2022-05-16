@@ -1,0 +1,13 @@
+
+name = "Hedgehogs"
+filename = "hedgehog-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3793/242/hedgehog-1.18.2-1.1.0.jar"
+hash-format = "sha1"
+
+[update]
+[update.curseforge]
+file-id = 3793242
+project-id = 561115
