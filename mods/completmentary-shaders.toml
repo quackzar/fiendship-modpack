@@ -1,8 +1,0 @@
-name = "Complementary Shaders"
-filename = "Complementary Shaders"
-side = "client"
-
-[update]
-[update.curseforge]
-file-id = 3685089
-project-id = 385587
