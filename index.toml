@@ -186,6 +186,11 @@ hash = "75f3aec1ad0f9c8325dd1a517474a91a59e2f2b9fe916b22c611cd446f03ed25"
 metafile = true
 
 [[files]]
+file = "mods/controlling.toml"
+hash = "c69828c3b36750e806e3c7e7325c6e0fa0e8568fada8e5401382fce1b4a9c590"
+metafile = true
+
+[[files]]
 file = "mods/corn-delight.toml"
 hash = "fd706d0d9d0aa88902a070d36c9fabee0367cb8db362fc235f8d4143a10a9db5"
 metafile = true
@@ -513,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/mysterious-mountain-lib.toml"
 hash = "ef8e8ff6a67f778f894e44f3c39f0ea5bc5c5a502efcb5e3619a9206f8855b57"
+metafile = true
+
+[[files]]
+file = "mods/nekos-enchanted-books.toml"
+hash = "e9403abf87c946e59cd127465271ad934584e4d7ec091079b91c5e4d2e6178ac"
 metafile = true
 
 [[files]]
