@@ -132,11 +132,6 @@ hash = "917f558b4bbbeb428d93e945743829925c21e573ffe3d44e4341cbe698b4d699"
 metafile = true
 
 [[files]]
-file = "mods/chipped.toml"
-hash = "7e6e7c164aba4a6c17838d1426fa6750afc698040a246cd4a57544738e9fd7ae"
-metafile = true
-
-[[files]]
 file = "mods/chunky-pregenerator-forge.toml"
 hash = "cbb5771c866fabf8a719a7b9b0fa563c6f7260d77cd6aa996495004a2c2dafe9"
 metafile = true
