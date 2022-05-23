@@ -1,13 +1,13 @@
 name = "GeckoLib"
-filename = "geckolib-1.18-forge-3.0.15.jar"
+filename = "geckolib-1.18-forge-3.0.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3755/165/geckolib-1.18-forge-3.0.15.jar"
 hash-format = "sha1"
-hash = "1a017d6a8c72c871caf75d6f99bccccf840b817d"
+hash = "4dc93d8fe7b333ad4a7d2105d4dad8947ae0c419"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3755165
+file-id = 3785773
 project-id = 388172

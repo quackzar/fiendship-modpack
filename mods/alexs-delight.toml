@@ -1,13 +1,13 @@
 name = "Alex's Delight"
-filename = "alexsdelight-1.18.2-1.2.2.jar"
+filename = "alexsdelight-1.18.2-1.2.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3782/565/alexsdelight-1.18.2-1.2.2.jar"
 hash-format = "sha1"
-hash = "24217d40369e1e0098f057621c59635abc0ce16a"
+hash = "af39e9cb0c592fba2eb11d0a98f536a5b13013e5"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3782565
+file-id = 3787817
 project-id = 556448

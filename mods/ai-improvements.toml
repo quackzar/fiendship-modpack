@@ -1,13 +1,13 @@
 name = "AI Improvements"
-filename = "AI-Improvements-1.18-0.4.0.jar"
+filename = "AI-Improvements-1.18.2-0.5.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/562/AI-Improvements-1.18-0.4.0.jar"
 hash-format = "sha1"
-hash = "8f8178fcb31e72a37f75efbaec3a3db92d2c6bbd"
+hash = "555b775e8dafe0474e73a321d6244b0227c19865"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3543562
+file-id = 3798941
 project-id = 233019
