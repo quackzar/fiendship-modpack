@@ -17,6 +17,16 @@ file = "mods.txt"
 hash = "9315a31725693bb8dba018ec785eca211e546b4836c968eacbbecf860e020b02"
 
 [[files]]
+file = "mods/actually-compatible.pw.toml"
+hash = "7342a52601808df88e76370b52e894545decc7bb14bdc6f7508e1f6dbca0404c"
+metafile = true
+
+[[files]]
+file = "mods/additional-additions-forge.pw.toml"
+hash = "b59058d00cd67770e07d9f9c886f76e90e5c364ec83809746d4b1bbb18509649"
+metafile = true
+
+[[files]]
 file = "mods/additional-additions-forge.toml"
 hash = "3b968845dee319f87c19c383e38048fb57ad15a2fa39f11e451972c17c4a0739"
 metafile = true
@@ -49,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.toml"
 hash = "276c6f83222219d5a6a7278361f789567aa47e02a7c31d820b9a428ca5ae0120"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8fd8ee9872d82209092894715732201fef8599cd1afd025d09d85e8af01488e4"
 metafile = true
 
 [[files]]
@@ -162,6 +177,11 @@ hash = "adeb62a594b6902e3d036801c38e684e36edf9358e620e928d6d9c3732ab04d1"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "e371dac94218f8ea95105790951259658dc8c3081c57dcbf054e977f13fce6a6"
+metafile = true
+
+[[files]]
 file = "mods/collective.toml"
 hash = "5f2e4f84c7b7c0d2cac9a717323031292ce018e7992333620cb2fc12627b5e46"
 metafile = true
@@ -174,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/configured.toml"
 hash = "07a20eec8ea56cae6e0582350de0bcccfd21530e3708fdf68ba55ce654b9320a"
+metafile = true
+
+[[files]]
+file = "mods/connectible-chains-forge.pw.toml"
+hash = "7697367b8af24fc0d0993659913db8c11af749a0f49b6bc755f51605ae3bde97"
 metafile = true
 
 [[files]]
@@ -229,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/curious-elytra.toml"
 hash = "cdb05718e6ed66537cb7aa348c6373713a921ca402b26469dec3089d392e5b4e"
+metafile = true
+
+[[files]]
+file = "mods/cursery.pw.toml"
+hash = "bae26b74e8d6bc20ca25d41a521dfe8a0ec3dbf575d0ea906912c04d3c505600"
 metafile = true
 
 [[files]]
@@ -304,6 +334,21 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials.toml"
 hash = "6e4a34c104bf7f0754535a7738369b5da8ec28afa98fd7cfff583185da0a66ec"
+metafile = true
+
+[[files]]
+file = "mods/enlightened-end.pw.toml"
+hash = "5b746272d4b9408d34a8002f5645991d63981a71d6bda17bda8af6290791b63c"
+metafile = true
+
+[[files]]
+file = "mods/ensorcellation.pw.toml"
+hash = "b43ec67583b4c6ff459a8c6199e49b40ea03072ab0d7de85ddef3fcb9ae7365b"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "a843daf1cf0460ebc9e73b7ad003ad0c59707bd44b74c2fca6b4ea7bbc473643"
 metafile = true
 
 [[files]]
@@ -392,33 +437,28 @@ hash = "30df80062e88163a7521407b764c89eaa4d5cef1318ed77e9357c13ac1544ba5"
 metafile = true
 
 [[files]]
+file = "mods/hidden-recipe-book.pw.toml"
+hash = "b91fb4f286ed9279f626d6a639566c82927af895bd56872843517f185ce2f662"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.toml"
 hash = "42093570f3f30594eb0979f85d1fb270300e75e34917533db0955f66b00a4800"
 metafile = true
 
 [[files]]
-file = "mods/i-like-wood-biomes-o-plenty-plugin.toml"
-hash = "eb524f5333e5f04543f096db83b8ce20127416a4546e6cba84b43be6467a3c42"
-metafile = true
-
-[[files]]
-file = "mods/i-like-wood-config.toml"
-hash = "36226732e98e0b3f46439ace096699e8db60fd84ddede5dd6dd1eb1a920e244b"
-metafile = true
-
-[[files]]
-file = "mods/i-like-wood-oh-the-biomes-youll-go-plugin.toml"
-hash = "f7eca021e9ee495c2885c6ad5cafe1812fb300a21f15afaeba1400c146322605"
-metafile = true
-
-[[files]]
-file = "mods/i-like-wood.toml"
-hash = "04a94eb208ede7500449abc8f003df157e1a5020088faf62fce11bfc18246edc"
+file = "mods/iceberg.pw.toml"
+hash = "eab8175203c0bb3bf6f6954e776e80e246459e0bfa8f688c0fed5233069fe0bc"
 metafile = true
 
 [[files]]
 file = "mods/idas.toml"
 hash = "c2076e7fe1eb4a0351c1dfa99222ed749f45ceb4a66390971201bc406ad34dec"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "9bb80a11880b30e70550dde613e6b8de560c3fc8fbf758f3e5e0681481567730"
 metafile = true
 
 [[files]]
@@ -749,6 +789,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.toml"
 hash = "b9a5129403a4480340ab04bdb83103914de74905465e982791c38abd7bb14368"
+metafile = true
+
+[[files]]
+file = "mods/tactical-fishing.pw.toml"
+hash = "88ce0c634a33ae124867b341612d15e3d1a606f48e19e484d07574dec9255474"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Connectible Chains [FORGE]"
+filename = "Connectible Chains-forge-1.18.2-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3b6b89028e5a6c4748bd976b75abc691628e3aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3682482
+project-id = 418514
