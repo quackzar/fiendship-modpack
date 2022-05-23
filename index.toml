@@ -97,6 +97,11 @@ hash = "e0c771b92aec1ff57dd0ce79a816275762ee56de3311ccb64f42d95207782ba4"
 metafile = true
 
 [[files]]
+file = "mods/betterloadingscreen.pw.toml"
+hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
+metafile = true
+
+[[files]]
 file = "mods/biomeinfo.toml"
 hash = "67e4b1981c08a6a34b96f59ef77057833093835304e32cd8a7f2fc424106a9a6"
 metafile = true
@@ -167,10 +172,6 @@ hash = "3db4f3aa550b65a87faaca264dd3524c1262d640e1abebfcf0fbc9d805fdb24a"
 metafile = true
 
 [[files]]
-file = "mods/completmentary-shaders.toml"
-hash = "65c01c084a53621e1d00ba34efc36953c8027a0dc7f375b622e176627e2f3139"
-
-[[files]]
 file = "mods/configured.toml"
 hash = "07a20eec8ea56cae6e0582350de0bcccfd21530e3708fdf68ba55ce654b9320a"
 metafile = true
@@ -183,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.toml"
 hash = "c69828c3b36750e806e3c7e7325c6e0fa0e8568fada8e5401382fce1b4a9c590"
+metafile = true
+
+[[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "897acf7d7731804af4073cdb2e9d3de10ec698fda9bb6df539513963ab770a4a"
 metafile = true
 
 [[files]]
@@ -376,7 +382,8 @@ hash = "60f50a9dad223d2823067b366e1c072e61342dc82734885da5572d0b5785f4a5"
 metafile = true
 
 [[files]]
-file = "mods/hedgehogs.toml"
+file = "mods/hedgehogs.pw.toml"
+hash = "ae201df65b0c7f81c86f1e4bb24568c706e996add3ca3b4a258c0d8fcf7214cd"
 metafile = true
 
 [[files]]
@@ -487,6 +494,11 @@ metafile = true
 [[files]]
 file = "mods/malum.toml"
 hash = "5966d3fc3dadd26fe8de03ccfd4999b64b08a3c1dfb11e172e0404c198046a47"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "15956aeb4f0a011fbf98d95d1654a80e36dd1ae6ef3a6a1f31bae33ce79a03f6"
 metafile = true
 
 [[files]]
@@ -670,6 +682,11 @@ hash = "b3277f41edcf52d76919625d977770675911d9b1574db5e83e6259722924e101"
 metafile = true
 
 [[files]]
+file = "mods/sneaky-curses-forge.pw.toml"
+hash = "846df92e1b97a2159b6b09f683a59788c69eeb08a0fd0756861228e96e9ca02a"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.toml"
 hash = "dc3be2aa261411ce7483e8af0e56533133e8b004fa1584924ea56ac422c5d359"
 metafile = true
@@ -752,6 +769,11 @@ metafile = true
 [[files]]
 file = "mods/to-the-bat-poles.toml"
 hash = "422744aac6ab30bc9f7a34c70b96d4250c3ab93613c5a340cf3155d87dcd18f1"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants-forge.pw.toml"
+hash = "32bce717bff2afa0ec81905d51da6fd88a97c19d8d47a7ff213656aeb87e7d99"
 metafile = true
 
 [[files]]

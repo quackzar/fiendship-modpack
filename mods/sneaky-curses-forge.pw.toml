@@ -1,0 +1,13 @@
+name = "Sneaky Curses [Forge]"
+filename = "SneakyCurses-v3.0.0-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45ef4ab5e20795cc78a6843eac74b71b26e828ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3693738
+project-id = 322733

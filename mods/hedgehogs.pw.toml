@@ -1,11 +1,11 @@
-
 name = "Hedgehogs"
 filename = "hedgehog-1.18.2-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3793/242/hedgehog-1.18.2-1.1.0.jar"
 hash-format = "sha1"
+hash = "632a91cd122c318bdcf8bda6b355d23a696def40"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
