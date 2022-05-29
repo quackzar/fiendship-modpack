@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4d8c9d1256d60fb31ca73999815fc5d81f253cdcbe2eb779771058c3feadca16"
+hash = "9ee031cb5f49dbcb7ebaf287cc26522423aed3575be155e924e791cc05881f30"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.toml"
-hash = "d34619cd95db2d956c2d0f53d1572d02ad21bc07c2553a9dba78da20d461780f"
+hash = "a7e9a9ce546f989b095812a0fbc4b878ff94213a39c4d6e7d06ae06224e3ea61"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.toml"
-hash = "702185665f03cc1636d8f995a7942e43c3f6df5256816128eb330f7e89a46c86"
+hash = "229d4f4c28be91e889dd5be7daae09018c1a7940940fb289d2776bed7340a0c6"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/enlightened-end.pw.toml"
-hash = "5b746272d4b9408d34a8002f5645991d63981a71d6bda17bda8af6290791b63c"
+hash = "6d7e97c916055454eca3d6bd10da6fdc404c51341cf698d3ef0dbbf48fef4b94"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgeendertech.toml"
-hash = "239badbf9de896ec0a17270a1c2627d8c8cb4d1ed1c76d5f0ea83d242e4169a9"
+hash = "9d50b5508e733a06537cae560b63dff228757b89949daa00ef97485325e81b25"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.toml"
-hash = "a5c83f134e247a79970061b9426951b61363c3417594f5ea2f7ffd5e0f6ed5f6"
+hash = "a6318f63f3e504f27c85b83d5299124a313bb8ce290e975c6994f30dfc7600fd"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
-hash = "612546b072b0483dc182b77d0eec453a0b1f0967f1487b092ac6b183dac7ac61"
+hash = "39982366b604511392acbac11b875b0c247e8fc60257fc4aa2a07434a7520e0f"
 metafile = true
 
 [[files]]
@@ -693,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.toml"
-hash = "eeb5cf3eca53ae350a44a52531449ad3943abca0bc3aff59e52e8cac781e92d7"
+hash = "ec80c56bb1cfe3d98bdb43d7b03288ca58b3cc980d80ab863c7d23fb73747225"
 metafile = true
 
 [[files]]
@@ -853,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/ydms-allay.toml"
-hash = "fed2881b0436a08fca527d5adb0ec567403c8c6aef3a7f90e97961a546f2aa81"
+hash = "4d14c804c0eec1b59294561ec7816a11580aa3a3b1159a4045403f6b800b2ffb"
 metafile = true
 
 [[files]]
