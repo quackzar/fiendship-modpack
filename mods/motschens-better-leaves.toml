@@ -1,13 +1,13 @@
 name = "Motschen's Better Leaves"
-filename = "Better-Leaves-6.2-1.13+.zip"
+filename = "Better-Leaves-7.0-1.13+.zip"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3759/621/Better-Leaves-6.2-1.13+.zip"
 hash-format = "sha1"
-hash = "0f901f13e0d07deec6cb19d8cba6ee50d4b43bfa"
+hash = "b768ea104fbf268ab69fcdc4004c7f36df15c545"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3759621
+file-id = 3814725
 project-id = 380969

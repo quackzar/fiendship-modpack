@@ -1,13 +1,13 @@
 name = "Immersive Weathering [FORGE]"
-filename = "immersive_weathering-1.18.2-1.2.10.jar"
+filename = "immersive_weathering-1.18.2-1.2.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1f5a6a1aad43c7199eb27b353d0532a42a055ed8"
+hash = "c0622ff66dc51f667262bb4880bedfee9d0551ff"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3800547
+file-id = 3815045
 project-id = 592449

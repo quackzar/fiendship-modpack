@@ -1,13 +1,13 @@
 name = "Food Effects"
-filename = "foodeffects-1.18.2-1.1.1.jar"
+filename = "foodeffects-1.18.2-1.1.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3765/35/foodeffects-1.18.2-1.1.1.jar"
 hash-format = "sha1"
-hash = "00310296ea593336dc56e8cf6726915b8de1dadd"
+hash = "987c6537d4d0c21343d9b115728793d22a92e1b0"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3765035
+file-id = 3816362
 project-id = 452816

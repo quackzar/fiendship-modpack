@@ -1,13 +1,13 @@
 name = "Additional Additions | Forge"
-filename = "additionaladditions-4.0.3.jar"
+filename = "additionaladditions-4.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4e8e48d13184a21e4effc4cc70e300537059dece"
+hash = "bbad44d50d9305e0676e1b93bdf12b4f7dfc7a4f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3803427
+file-id = 3819413
 project-id = 582387
