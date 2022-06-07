@@ -152,6 +152,11 @@ hash = "917f558b4bbbeb428d93e945743829925c21e573ffe3d44e4341cbe698b4d699"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "4e253e12a9b2702b8708228b9f617fa49510939dfa8ce90d30033573543ec351"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator-forge.toml"
 hash = "cbb5771c866fabf8a719a7b9b0fa563c6f7260d77cd6aa996495004a2c2dafe9"
 metafile = true
@@ -284,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/drp-global-datapack.toml"
 hash = "c51f6f9f6da1159c6407c089d6ecc71dd372ec89afaefe1ed086d3956f939444"
+metafile = true
+
+[[files]]
+file = "mods/drunken-mug.pw.toml"
+hash = "40e722a2193af453f350a943f4b470b5c3a8d5bec047a77ae174a95b8cd04cdb"
 metafile = true
 
 [[files]]
@@ -597,6 +607,21 @@ hash = "5e49b2e0b45dee49aa655f33398ab23b06a903a8cedb564d37f7aefd58176eae"
 metafile = true
 
 [[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "5ae34b889d130ecac29960c2eb51b3baa36520087f4ef5d1299e8ce3762f6cb4"
+metafile = true
+
+[[files]]
+file = "mods/ob-core.pw.toml"
+hash = "d3aa63d0b53bafdba6e07d53ea1f85a4b459444f1fa8884279515094da66eb09"
+metafile = true
+
+[[files]]
+file = "mods/ob-tooltips.pw.toml"
+hash = "fdfd4c276932f9082645ca2b6948744cdb3a4173aac0892b9523af25dae5c83d"
+metafile = true
+
+[[files]]
 file = "mods/oculus.toml"
 hash = "fef2110409d6fc25fbb0175735f87b8b3cee9110b3eca84603f66696c8381fea"
 metafile = true
@@ -862,6 +887,11 @@ hash = "7eb429287a0ea5a8b8ef51eeccfafc4e7364076b3273ebe5bb124efe4c3ebd66"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "0be5d3fb007d5192ac63f94800ee80b4a69e3ff3451482bb02a4b82fe4fb3cb2"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-dungeons.toml"
 hash = "4b38880c4b1ca255de069603c8ef4cc08d37482342acc8efc9f9b92af190af4c"
 metafile = true
@@ -874,6 +904,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.toml"
 hash = "fd04c4fb5c48a6c5db71601a259d9076f2f07b66b035572716c89d754b385447"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "b7864cf8603327822c713d7e7e4947e0aab2846786b4f99a147cb277d77018b1"
 metafile = true
 
 [[files]]
