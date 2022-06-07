@@ -1,0 +1,13 @@
+name = "Atomic Anarchy"
+filename = "Atomic Anarchy-1.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65b00d8e4240a5f2fdedaa0fa8cf156820829964"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3816499
+project-id = 500084

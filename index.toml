@@ -67,6 +67,11 @@ hash = "9ee031cb5f49dbcb7ebaf287cc26522423aed3575be155e924e791cc05881f30"
 metafile = true
 
 [[files]]
+file = "mods/atomicstrykers-infernal-mobs.pw.toml"
+hash = "049bceea6420d4a1ebb6ec017766273aff7bdde8b21a092a70e7845eb299274c"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.toml"
 hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
 metafile = true
@@ -579,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/mysterious-mountain-lib.toml"
 hash = "3fee3852ccd600c74b65f092cdedbf9d5aa61504d0a3be93124f65eec8c4b0ff"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "c9b4933204a4ae99c25ab36065be27e4ff7ca8e047b9b12010f43ac6e67d908c"
 metafile = true
 
 [[files]]
