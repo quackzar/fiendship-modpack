@@ -1,0 +1,13 @@
+name = "More Zombie Villagers (Forge)"
+filename = "morezombievillagers_1.18.2-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f04a2231095c9022bb11f66a74511b58034d7c01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3669204
+project-id = 347338

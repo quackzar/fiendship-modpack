@@ -1,0 +1,13 @@
+name = "Ensorcellation"
+filename = "ensorcellation-1.18.2-1.6.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0db7c5179242af649dbd5438cb544588b3ebb7c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837816
+project-id = 349447

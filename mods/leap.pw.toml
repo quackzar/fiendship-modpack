@@ -1,0 +1,13 @@
+name = "Leap"
+filename = "leap-1.18-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e97de24618d980d5d4a91f6935bd18d232358155"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3544081
+project-id = 371402

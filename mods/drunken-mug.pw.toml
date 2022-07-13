@@ -1,0 +1,13 @@
+name = "Drunken Mug"
+filename = "drunken_mug-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eeda7e3ae6186206ecd2d8ca29cba859c981357b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3763359
+project-id = 581669

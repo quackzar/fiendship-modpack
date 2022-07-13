@@ -1,0 +1,13 @@
+name = "Stay True Modded Compats"
+filename = "Stay True Compats v3 [1.18].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a18aed9583727d4a7424d949b6d40edb2b8cf7bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3683671
+project-id = 576591

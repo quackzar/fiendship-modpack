@@ -1,0 +1,13 @@
+name = "Enlightened End"
+filename = "Enlightened End BB V1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81657d17ccb1fafc038668cd7bef453180316f12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821676
+project-id = 502786

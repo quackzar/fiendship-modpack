@@ -1,0 +1,13 @@
+name = "Tactical Fishing"
+filename = "TacticalFishing-1.18.1x-v1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff3923a74b4f18d63f7fd2eaa6155b9313e3ee8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3829437
+project-id = 462326

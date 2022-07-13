@@ -1,0 +1,13 @@
+name = "The Wild Update 1.19 [FORGE]"
+filename = "The_Wild_Update_Mod_V1.3_Minecraft_1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8c75efd5e2bd8a30149c8e86120ad13376921f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3747147
+project-id = 537490

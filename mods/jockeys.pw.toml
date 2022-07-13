@@ -1,0 +1,13 @@
+name = "Spooky Scary Jockeys"
+filename = "Jockeys-1.18-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f57fb0c0ef9e1555290c3a92e04360997c5b0b82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3545339
+project-id = 534968

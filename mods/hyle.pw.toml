@@ -1,0 +1,13 @@
+name = "Hyle"
+filename = "Hyle-forge-1.18.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3970b56755bb696beb2cefa973f70b95915f5b99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3748968
+project-id = 609850

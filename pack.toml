@@ -1,0 +1,12 @@
+name = "The Power of Fiendship"
+version = "0.9.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "539424cdf9cfdaf02c80c65ccfaf63afc02d83d3a738c69b85450c12d34da6a0"
+
+[versions]
+forge = "40.1.60"
+minecraft = "1.18.2"

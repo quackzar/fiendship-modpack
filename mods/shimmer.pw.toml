@@ -1,0 +1,16 @@
+name = "Shimmer"
+filename = "Shimmer-forge-1.18.2-0.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64bba122a507e24247aaac1b6ece670b2f0ab423"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3867182
+project-id = 627824
+
+[option]
+optional = true

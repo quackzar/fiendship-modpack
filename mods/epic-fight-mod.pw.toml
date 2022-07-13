@@ -1,0 +1,13 @@
+name = "Epic Fight"
+filename = "EpicFight-18.2.3-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00f10e59fb80ef8d5f9ed19eee72445e9885f793"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3857786
+project-id = 405076

@@ -1,0 +1,13 @@
+name = "Double Slabs"
+filename = "DoubleSlabs-1.18-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fddb494878db62aa623778467bf15e234afcf4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3867079
+project-id = 350179

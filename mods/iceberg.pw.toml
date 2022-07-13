@@ -1,0 +1,13 @@
+name = "Iceberg"
+filename = "Iceberg-1.18.2-1.0.44.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db978343d404f2d43158fb2b5fbcd2d6004859fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3800622
+project-id = 520110

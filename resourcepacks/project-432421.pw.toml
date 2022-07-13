@@ -1,0 +1,13 @@
+name = "project-432421"
+filename = "Vanilla_Additions_Dark_GUI_Add-On_1.2.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9325e21db0078763f85689de9477449585e2ef88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3719394
+project-id = 432421

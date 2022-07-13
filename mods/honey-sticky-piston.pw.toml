@@ -1,0 +1,13 @@
+name = "Honey Sticky Piston"
+filename = "honeystickypistonmod-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8533abbbe03b14ab20fb09e5218dcf5037600ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3826821
+project-id = 626474

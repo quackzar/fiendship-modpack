@@ -1,0 +1,13 @@
+name = "Some Assembly Required"
+filename = "some-assembly-required-1.18.2-2.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2952963fee9fe0876ceb5bbd0c5a4f8622288fb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3750703
+project-id = 422951

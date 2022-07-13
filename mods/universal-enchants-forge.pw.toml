@@ -1,0 +1,13 @@
+name = "Universal Enchants [Forge]"
+filename = "UniversalEnchants-v3.0.6-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7b21a227fa5551797c0a52be4a5732c807a10e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3728463
+project-id = 593958
