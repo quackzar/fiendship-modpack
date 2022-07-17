@@ -1,0 +1,13 @@
+name = "Volcanic Caverns"
+filename = "volcanic_caverns-1.18.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3251fed287b36cf2277fd196d9c133e1660c85b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3750338
+project-id = 522458
