@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
+
+[[files]]
+file = "global_packs/required_data/idasbop.zip"
+
+[[files]]
+file = "config/jockeys-common.toml"
+
+[[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
 hash = "c8953bee18d46925703bc87f5e5867a4f5ecf62d6a8aa7e98688cb6ce7d33d8b"
 

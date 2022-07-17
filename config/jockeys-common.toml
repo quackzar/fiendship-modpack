@@ -1,0 +1,64 @@
+
+["Skeleton Bat Settings"]
+	#Minimum amount per spawn
+	#Range: 1 ~ 10
+	"Skeleton Bat Min Group Size" = 1
+	#Maximum amount per spawn
+	#Range: 1 ~ 10
+	"Skeleton Bat Max Group Size" = 1
+	#Chance to spawn
+	#Range: 0 ~ 200
+	"Skeleton Bat Spawn Weight" = 10
+	#Head armor for jockeys
+	"Skeleton Bat Jockey Head" = ""
+	#Chest armor for jockeys
+	"Skeleton Bat Jockey Chest" = ""
+	#Legs armor for jockeys
+	"Skeleton Bat Jockey Legs" = ""
+	#Feet armor for jockeys
+	"Skeleton Bat Jockey Feet" = ""
+	#Main item for jockeys
+	"Skeleton Bat Jockey Main Item" = "minecraft:bow"
+	#Offhand item for jockeys
+	"Skeleton Bat Jockey Off Item" = "minecraft:bone"
+
+["Vex Bat Settings"]
+	#Minimum amount per spawn
+	#Range: 1 ~ 10
+	"Vex Bat Min Group Size" = 1
+	#Maximum amount per spawn
+	#Range: 1 ~ 10
+	"Vex Bat Max Group Size" = 1
+	#Chance to spawn
+	#Range: 0 ~ 200
+	"Vex Bat Spawn Weight" = 0
+
+["Wither Skeleton Ghast Settings"]
+	#Minimum amount per spawn
+	#Range: 1 ~ 10
+	"Wither Skeleton Ghast Min Group Size" = 1
+	#Maximum amount per spawn
+	#Range: 1 ~ 10
+	"Wither Skeleton Ghast Max Group Size" = 1
+	#Chance to spawn
+	#Range: 0 ~ 200
+	"Wither Skeleton Ghast Spawn Weight" = 10
+	#Head armor for jockeys
+	"Wither Skeleton Ghast Jockey Head" = ""
+	#Chest armor for jockeys
+	"Wither Skeleton Ghast Jockey Chest" = ""
+	#Legs armor for jockeys
+	"Wither Skeleton Ghast Jockey Legs" = ""
+	#Feet armor for jockeys
+	"Wither Skeleton Ghast Jockey Feet" = ""
+	#Main item for jockeys
+	"Wither Skeleton Ghast Jockey Main Item" = "minecraft:bow"
+	#Offhand item for jockeys
+	"Wither Skeleton Ghast Jockey Off Item" = "minecraft:spyglass"
+	#Attack range for jockeys
+	#Range: 1.0 ~ 100.0
+	"Wither Skeleton Ghast Jockey Attack Range" = 100.0
+	#Attack interval for jockeys
+	#Range: 10 ~ 1000
+	"Wither Skeleton Ghast Jockey Attack Interval" = 40
+
