@@ -1,0 +1,13 @@
+name = "Personality"
+filename = "personality-1.18.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7125738035b1a902254e85563815c4d5c58e5fb1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3881529
+project-id = 415974

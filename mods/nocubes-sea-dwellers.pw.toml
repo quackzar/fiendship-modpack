@@ -1,0 +1,13 @@
+name = "NoCube's Sea Dwellers"
+filename = "nocube's_sea_dwellers_2.1.1_forge_1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a221961ff3f61d4d14ea3b69d0908b9f825dd34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3877468
+project-id = 536530

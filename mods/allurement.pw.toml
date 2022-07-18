@@ -1,0 +1,13 @@
+name = "Allurement"
+filename = "allurement-1.18.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e68302dcac0e2877b3152d7bfa761e296b2e4cc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3881523
+project-id = 438003

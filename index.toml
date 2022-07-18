@@ -361,6 +361,10 @@ file = "global_packs/required_data/idasbop.zip"
 file = "mods/OptiFine_1.18.2_HD_U_H7.jar.dead"
 
 [[files]]
+file = "mods/abnormals-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/actually-compatible.pw.toml"
 metafile = true
 
@@ -393,6 +397,10 @@ file = "mods/air-hop.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/alcocraft-beer-and-stuff.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/alexs-delight.pw.toml"
 metafile = true
 
@@ -401,11 +409,19 @@ file = "mods/alexs-mobs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/allurement.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
 metafile = true
 
 [[files]]
@@ -437,7 +453,15 @@ file = "mods/balm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bed-benefits.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bedspreads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/berry-good.pw.toml"
 metafile = true
 
 [[files]]
@@ -474,6 +498,14 @@ metafile = true
 
 [[files]]
 file = "mods/biometweaker.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/boatload.pw.toml"
 metafile = true
 
 [[files]]
@@ -566,6 +598,10 @@ metafile = true
 
 [[files]]
 file = "mods/crying-portals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights.pw.toml"
 metafile = true
 
 [[files]]
@@ -785,6 +821,10 @@ file = "mods/incendium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/incubation.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/infernal-expansion.pw.toml"
 metafile = true
 
@@ -802,6 +842,10 @@ metafile = true
 
 [[files]]
 file = "mods/jockeys.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jumpy-boats.pw.toml"
 metafile = true
 
 [[files]]
@@ -877,6 +921,10 @@ file = "mods/naturalist.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/neapolitan.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 metafile = true
 
@@ -886,6 +934,10 @@ metafile = true
 
 [[files]]
 file = "mods/nethers-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nocubes-sea-dwellers.pw.toml"
 metafile = true
 
 [[files]]
@@ -937,6 +989,10 @@ file = "mods/paragliders.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/personality.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 metafile = true
 
@@ -954,6 +1010,10 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pyromancer.pw.toml"
 metafile = true
 
 [[files]]
@@ -982,6 +1042,10 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/savage-and-ravage.pw.toml"
 metafile = true
 
 [[files]]
