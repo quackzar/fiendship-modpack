@@ -541,6 +541,10 @@ file = "mods/citadel.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/clickable-advancements.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 metafile = true
 
@@ -618,6 +622,10 @@ metafile = true
 
 [[files]]
 file = "mods/dash.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
 metafile = true
 
 [[files]]
@@ -1073,6 +1081,10 @@ file = "mods/serverconfig-updater.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/serverstop.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shimmer.pw.toml"
 metafile = true
 
@@ -1081,7 +1093,15 @@ file = "mods/shutup-experimental-settings.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/slimyfloor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
 metafile = true
 
 [[files]]

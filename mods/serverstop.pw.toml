@@ -1,0 +1,13 @@
+name = "ServerStop"
+filename = "ServerStop-1.18.1-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8499b2992b5614cef3c81ff439db23e54b08d337"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3577559
+project-id = 310259
