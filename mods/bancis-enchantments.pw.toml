@@ -1,0 +1,13 @@
+name = "Banci's Enchantments"
+filename = "BancisEnchantmentsRelease1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad1d2823253dc66872b478b2bedc648080fd4eb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3781030
+project-id = 584533

@@ -1,0 +1,13 @@
+name = "Moyai"
+filename = "moyai-1.18.2-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c96008a21bc811e36f8d8006e24ec3f660ab1fae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3723161
+project-id = 577252

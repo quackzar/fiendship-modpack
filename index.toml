@@ -453,6 +453,10 @@ file = "mods/balm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bancis-enchantments.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bed-benefits.pw.toml"
 metafile = true
 
@@ -517,11 +521,19 @@ file = "mods/caelus.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/champions.pw.toml"
 metafile = true
 
 [[files]]
@@ -585,6 +597,14 @@ file = "mods/crash-utilities.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-chunkloading.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 metafile = true
 
@@ -626,6 +646,10 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
 metafile = true
 
 [[files]]
@@ -682,6 +706,10 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-ai.pw.toml"
 metafile = true
 
 [[files]]
@@ -773,6 +801,10 @@ file = "mods/grimoire-of-tetra.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/gui-compass.pw.toml"
 metafile = true
 
@@ -834,6 +866,10 @@ metafile = true
 
 [[files]]
 file = "mods/infernal-expansion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
 metafile = true
 
 [[files]]
@@ -914,6 +950,10 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moyai.pw.toml"
 metafile = true
 
 [[files]]
@@ -1137,7 +1177,7 @@ file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-carrot-edition.pw.toml"
+file = "mods/spice-of-life-sweet-potato-edition.pw.toml"
 metafile = true
 
 [[files]]
@@ -1230,6 +1270,10 @@ metafile = true
 
 [[files]]
 file = "mods/waterdripsound.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/windowlogging.pw.toml"
 metafile = true
 
 [[files]]
