@@ -869,6 +869,10 @@ file = "mods/kiwi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/large-meals-an-add-on-for-farmers-delight.pw.toml"
 metafile = true
 
@@ -1046,6 +1050,10 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
 metafile = true
 
 [[files]]
@@ -1291,6 +1299,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/updated-engineering.pw.toml"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
 
 [[files]]
 file = "serverconfig/airhop-server.toml"
