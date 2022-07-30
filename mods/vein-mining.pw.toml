@@ -1,13 +1,13 @@
 name = "Vein Mining (Forge)"
-filename = "veinmining-forge-1.18.2-0.18.jar"
+filename = "veinmining-forge-1.18.2-0.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "251d7d4a4583807cfea3d644cb99125f6f97b56f"
+hash = "65f3fd49d5257634ba8a56dbccc786e0cf85c0f5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3670678
+file-id = 3903527
 project-id = 431611

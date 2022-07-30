@@ -1,13 +1,13 @@
 name = "GUI Retextures"
-filename = "guiretextures-darkmode-1.7.5.zip"
+filename = "guiretextures-darkmode-1.7.6.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "404f7eb355cc0c0e372fbf570e22f7e063113287"
+hash = "d6f781c72075e44d7026ac4b6a52c386487af5e9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3860031
+file-id = 3898861
 project-id = 412189
