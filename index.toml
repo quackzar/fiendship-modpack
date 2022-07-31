@@ -621,6 +621,10 @@ file = "mods/creatures-and-beasts.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/crying-portals.pw.toml"
 metafile = true
 
@@ -730,6 +734,10 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
 metafile = true
 
 [[files]]
@@ -1054,6 +1062,10 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pollen.pw.toml"
 metafile = true
 
 [[files]]
