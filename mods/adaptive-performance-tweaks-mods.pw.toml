@@ -1,13 +1,13 @@
 name = "Adaptive Performance Tweaks: Mods"
-filename = "adaptive_performance_tweaks_mods_1.18.2-3.9.1.jar"
+filename = "adaptive_performance_tweaks_mods_1.18.2-3.9.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "617543c5d4a397703199c214a5748920aebe17e3"
+hash = "de25554493f874fc600b7240bdc61c2502c341eb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3866935
+file-id = 3910912
 project-id = 602436

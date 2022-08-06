@@ -1,13 +1,13 @@
 name = "Adaptive Performance Tweaks: Core"
-filename = "adaptive_performance_tweaks_core_1.18.2-3.9.0.jar"
+filename = "adaptive_performance_tweaks_core_1.18.2-3.11.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7e172b5759fd4d02b40fcf798e9d81a0b37a9a73"
+hash = "b80a8ec8126527be7702146a1d27d5a2aef4ef1e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3856580
+file-id = 3918707
 project-id = 561087
