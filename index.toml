@@ -1007,10 +1007,6 @@ file = "mods/nethers-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/nocubes-sea-dwellers.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 metafile = true
 
