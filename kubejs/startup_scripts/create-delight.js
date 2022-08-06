@@ -132,18 +132,18 @@ onEvent('recipes', event => {
         'minecraft:bowl',
         '2x minecraft:blaze_powder',
         '2x minecraft:nether_wart',
-        'farmersrespite:coffee_bean',
+        'farmersrespite:coffee_beans',
         '#forge:raw_beef',
     ]).heated()
 
 
-    event.recipes.createMixing('nethersdelight:magma_geletin', [
+    event.recipes.createMixing('nethersdelight:magma_gelatin', [
         '3x minecraft:magma_cream',
         'nethersdelight:propelpearl',
         'minecraft:lava_bucket',
     ]).heated()
 
-    event.recipes.createMixing('nethersdelight:magma_geletin', [
+    event.recipes.createMixing('nethersdelight:magma_gelatin', [
         '3x minecraft:magma_cream',
         'nethersdelight:propelpearl',
         'minecraft:bucket',

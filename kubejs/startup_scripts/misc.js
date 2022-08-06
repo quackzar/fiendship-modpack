@@ -4,26 +4,26 @@ onEvent('recipes', event => {
         Fluid.of('hexerei:blood', 250)
     ])
 
-    event.recipes.createPolishing('create:polished_rose_quartz', 'biomesoplenty:rose_quartz_shard')
+    event.recipes.createSandpaperPolishing('create:polished_rose_quartz', 'biomesoplenty:rose_quartz_shard')
 
     event.shapeless('biomesoplenty:mud_ball', ['byg:mud_ball'])
     event.shapeless('byg:mud_ball', ['biomesoplenty:mud_ball'])
 
-    event.createCrushing([
+    event.recipes.createCrushing([
             Item.of('immersive_engineering:sulfur').withChance(0.3),
             Item.of('pyromancer:brimstone').withChance(0.1)
         ],
         'biomesoplenty:brimstone'
     )
 
-    event.createCrushing([
+    event.recipes.createCrushing([
             Item.of('immersive_engineering:sulfur').withChance(0.03),
             Item.of('pyromancer:brimstone').withChance(0.01)
         ],
         'byg:brimstone'
     )
 
-    event.createCrushing([
+    event.recipes.createCrushing([
             'pyromancer:brimstone',
             Item.of('immersive_engineering:sulfur').withChance(0.1),
             Item.of('pyromancer:brimstone').withChance(0.5),
@@ -31,7 +31,7 @@ onEvent('recipes', event => {
         'pyromancer:brimstone_ore'
     )
 
-    event.createCrushing([
+    event.recipes.createCrushing([
             'pyromancer:brimstone',
             Item.of('pyromancer:brimstone').withChance(0.5),
             Item.of('immersive_engineering:sulfur').withChance(0.1),
