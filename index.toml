@@ -393,6 +393,10 @@ file = "mods/ai-improvements.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/air-hop.pw.toml"
 metafile = true
 
@@ -662,6 +666,10 @@ metafile = true
 
 [[files]]
 file = "mods/delogger.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
 metafile = true
 
 [[files]]
