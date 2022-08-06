@@ -128,17 +128,27 @@ onEvent('recipes', event => {
     ]).heated()
 
     
-    event.recipes.createMixing('farmersdelight:stuffed_pumpkin_block', [
-        'minecraft:pumpkin',
-        'farmersdelight:rice',
-        '#forge:vegetables',
-        'farmersdelight:tomato',
-        'minecraft:baked_potato',
-        'farmersdelight:brown_mushroom_colony',
-        'minecraft:sweet_berries'
+    event.recipes.createMixing('farmersrespite:blazing_chili', [
+        'minecraft:bowl',
+        '2x minecraft:blaze_powder',
+        '2x minecraft:nether_wart',
+        'farmersrespite:coffee_bean',
+        '#forge:raw_beef',
     ]).heated()
 
 
+    event.recipes.createMixing('nethersdelight:magma_geletin', [
+        '3x minecraft:magma_cream',
+        'nethersdelight:propelpearl',
+        'minecraft:lava_bucket',
+    ]).heated()
+
+    event.recipes.createMixing('nethersdelight:magma_geletin', [
+        '3x minecraft:magma_cream',
+        'nethersdelight:propelpearl',
+        'minecraft:bucket',
+        Fluid.of('minecraft:lava', 1000)
+    ]).heated()
 
     event.recipes.createMixing('farmersdelight:dog_food', [
         'minecraft:bowl',
@@ -203,4 +213,49 @@ onEvent('recipes', event => {
         'farmersdelight:chocolate_pie'
     ).processingTime(50)
 
+    event.recipes.createCutting(
+        '4x farmersrespite:rose_hip_pie_slice',
+        'farmersrepsite:rose_hip_pie'
+    ).processingTime(50)
+
+    event.recipes.createCutting(
+        '4x farmersrespite:coffe_cake_slice',
+        'farmersrepsite:coffee_cake'
+    ).processingTime(50)
+
+
+    event.recipes.createCutting(
+        '7x abnormals_delight:chocolate_cake_slice',
+        'neapolitan:chocolate_cake'
+    ).processingTime(50)
+
+    event.recipes.createCutting(
+        '7x abnormals_delight:vanilla_cake_slice',
+        'neapolitan:vanilla_cake'
+    ).processingTime(50)
+
+
+    event.recipes.createCutting(
+        '7x abnormals_delight:strawberry_cake_slice',
+        'neapolitan:strawberry_cake'
+    ).processingTime(50)
+
+    event.recipes.createCutting(
+        '7x abnormals_delight:abzuki_cake_slice',
+        'neapolitan:abzuki_cake'
+    ).processingTime(50)
+
+
+    event.recipes.createCutting(
+        '7x abnormals_delight:banana_cake_slice',
+        'neapolitan:banana_cake'
+    ).processingTime(50)
+
+
+    
+    event.recipes.createCutting(
+        '7x abnormals_delight:mint_cake_slice',
+        'neapolitan:mint_cake'
+    ).processingTime(50)
+    
 })
