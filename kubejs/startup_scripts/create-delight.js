@@ -3,7 +3,7 @@ onEvent('recipes', event => {
         'minecraft:glass_bottle',
         'minecraft:sugar',
         '2x minecraft:cocoa_beans',
-        'minecraft:milk'
+        Fluid.of('minecraft:milk', 1000)
     ]).heated()
 
     event.recipes.createMixing('farmersdelight:apple_cider', [
@@ -61,16 +61,16 @@ onEvent('recipes', event => {
     event.recipes.createMixing('farmersdelight:pumpkin_soup', [
         'minecraft:bowl',
         'farmersdelight:pumpkin_slice',
-        'forge:salad_ingredients',
-        'forge:raw_pork'
+        '#forge:salad_ingredients',
+        '#forge:raw_pork'
     ]).heated()
 
 
     event.recipes.createMixing('farmersdelight:baked_cod_stew', [
         'minecraft:bowl',
-        'tags:forge:raw_fishes/cod',
+        '#forge:raw_fishes/cod',
         'minecraft:potato',
-        'forge:eggs',
+        '#forge:eggs',
         'farmersdelight:tomato'
     ]).heated()
 
@@ -80,7 +80,7 @@ onEvent('recipes', event => {
         'farmersdelight:raw_pasta',
         'farmersdelight:fried_egg',
         'minecraft:dried_kelp',
-        '#tags:forge:raw_pork'
+        '#forge:raw_pork'
     ]).heated()
 
 
@@ -164,7 +164,7 @@ onEvent('recipes', event => {
     ).processingTime(50)
 
     event.recipes.createCutting(
-        '2x farmersdelight:bacon'
+        '2x farmersdelight:bacon',
         'minecraft:porkchop'
     ).processingTime(50)
 
