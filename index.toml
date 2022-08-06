@@ -727,10 +727,6 @@ file = "mods/enchantment-descriptions.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-ai.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 metafile = true
 
@@ -888,10 +884,6 @@ metafile = true
 
 [[files]]
 file = "mods/infernal-expansion.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/insanelib.pw.toml"
 metafile = true
 
 [[files]]
