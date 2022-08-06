@@ -352,13 +352,19 @@ file = "config/supplementaries-registry.toml"
 file = "config/tetra.toml"
 
 [[files]]
+file = "fancymenu_data/last_world.fmdata"
+
+[[files]]
 file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
 
 [[files]]
 file = "global_packs/required_data/idasbop.zip"
 
 [[files]]
-file = "mods/OptiFine_1.18.2_HD_U_H7.jar.dead"
+file = "global_packs/required_data/tetranomicon+tetra_pak_compat.zip"
+
+[[files]]
+file = "kubejs/startup_scripts/create-delight.js"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -1369,6 +1375,9 @@ file = "resourcepacks/updated-engineering.pw.toml"
 metafile = true
 
 [[files]]
+file = "scripts/farmersdelight-create.zs"
+
+[[files]]
 file = "server-icon.png"
 
 [[files]]
@@ -1439,3 +1448,6 @@ file = "serverconfig/universalenchants-server.toml"
 
 [[files]]
 file = "serverconfig/veinmining-server.toml"
+
+[[files]]
+file = "shutdown.sh"
