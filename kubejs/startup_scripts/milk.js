@@ -34,7 +34,7 @@ onEvent('recipes', event => {
     for (const flavour of flavours) {
         let name = flavour.name
         event.recipes.createFilling('neapolitan:'+name+'_milkshake', [
-            'minecraft:empty_bottle',
+            'minecraft:glass_bottle',
             Fluid.of('kubejs:'+name+'milkshake_liquid', 300)
         ])
 
