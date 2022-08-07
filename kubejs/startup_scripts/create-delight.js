@@ -215,12 +215,12 @@ onEvent('recipes', event => {
 
     event.recipes.createCutting(
         '4x farmersrespite:rose_hip_pie_slice',
-        'farmersrepsite:rose_hip_pie'
+        'farmersrespite:rose_hip_pie'
     ).processingTime(50)
 
     event.recipes.createCutting(
-        '4x farmersrespite:coffe_cake_slice',
-        'farmersrepsite:coffee_cake'
+        '4x farmersrespite:coffee_cake_slice',
+        'farmersrespite:coffee_cake'
     ).processingTime(50)
 
 
@@ -241,8 +241,8 @@ onEvent('recipes', event => {
     ).processingTime(50)
 
     event.recipes.createCutting(
-        '7x abnormals_delight:abzuki_cake_slice',
-        'neapolitan:abzuki_cake'
+        '7x abnormals_delight:adzuki_cake_slice',
+        'neapolitan:adzuki_cake'
     ).processingTime(50)
 
 

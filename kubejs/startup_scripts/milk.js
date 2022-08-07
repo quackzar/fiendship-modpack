@@ -1,14 +1,15 @@
-const flavours = [
-    {name: 'chocolate', color: '0x3D251E'},
-    {name: 'vanilla', color: '0xDCC3CF'},
-    {name: 'strawberry', color: '0xFC5A8D'},
-    {name: 'mint', color: '0x3EB489'},
-    {name: 'banana', color: '0xFFFFC1'},
-    {name: 'adzuki', color: '0xFA5F55'},
-]
-
 onEvent('fluid.registry', event => {
-    for (const flavour in flavours) {
+    const flavours = [
+        {name: 'chocolate', color: '0x3D251E'},
+        {name: 'vanilla', color: '0xDCC3CF'},
+        {name: 'strawberry', color: '0xFC5A8D'},
+        {name: 'mint', color: '0x3EB489'},
+        {name: 'banana', color: '0xFFFFC1'},
+        {name: 'adzuki', color: '0xFA5F55'},
+    ]
+
+
+    for (const flavour of flavours) {
         let color = flavour.name
         let name = flavour.color
         let displayName = name.charAt(0).toUpperCase() + name.slice(1)
@@ -21,7 +22,16 @@ onEvent('fluid.registry', event => {
 })
 
 onEvent('recipes', event => {
-    for (const flavour in flavours) {
+    const flavours = [
+        {name: 'chocolate', color: '0x3D251E'},
+        {name: 'vanilla', color: '0xDCC3CF'},
+        {name: 'strawberry', color: '0xFC5A8D'},
+        {name: 'mint', color: '0x3EB489'},
+        {name: 'banana', color: '0xFFFFC1'},
+        {name: 'adzuki', color: '0xFA5F55'},
+    ]
+
+    for (const flavour of flavours) {
         let name = flavour.name
         event.recipes.createFilling('neapolitan:'+name+'_milkshake', [
             'minecraft:empty_bottle',

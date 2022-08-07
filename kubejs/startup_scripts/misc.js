@@ -1,8 +1,8 @@
 onEvent('recipes', event => {
-    event.recipes.createFilling('hexerei:blood_bottle', [
-        'minecraft:glass_bottle',
-        Fluid.of('hexerei:blood', 250)
-    ])
+    // event.recipes.createFilling('hexerei:blood_bottle', [
+    //     'minecraft:glass_bottle',
+    //     Fluid.of('hexerei:blood', 250)
+    // ])
 
     event.recipes.createSandpaperPolishing('create:polished_rose_quartz', 'biomesoplenty:rose_quartz_shard')
 
@@ -10,33 +10,33 @@ onEvent('recipes', event => {
     event.shapeless('byg:mud_ball', ['biomesoplenty:mud_ball'])
 
     event.recipes.createCrushing([
-            Item.of('immersive_engineering:sulfur').withChance(0.3),
+            Item.of('immersiveengineering:dust_sulfur').withChance(0.3),
             Item.of('pyromancer:brimstone').withChance(0.1)
         ],
-        'biomesoplenty:brimstone'
+        ['biomesoplenty:brimstone']
     )
 
     event.recipes.createCrushing([
-            Item.of('immersive_engineering:sulfur').withChance(0.03),
+            Item.of('immersiveengineering:dust_sulfur').withChance(0.03),
             Item.of('pyromancer:brimstone').withChance(0.01)
         ],
-        'byg:brimstone'
+        ['byg:brimstone']
     )
 
     event.recipes.createCrushing([
             'pyromancer:brimstone',
-            Item.of('immersive_engineering:sulfur').withChance(0.1),
+            Item.of('immersiveengineering:dust_sulfur').withChance(0.1),
             Item.of('pyromancer:brimstone').withChance(0.5),
         ],
-        'pyromancer:brimstone_ore'
+        ['pyromancer:brimstone_ore']
     )
 
     event.recipes.createCrushing([
             'pyromancer:brimstone',
             Item.of('pyromancer:brimstone').withChance(0.5),
-            Item.of('immersive_engineering:sulfur').withChance(0.1),
+            Item.of('immersiveengineering:dust_sulfur').withChance(0.1),
         ],
-        'pyromancer:brimstone_ore'
+        ['pyromancer:brimstone_ore']
     )
 
     event.remove({output: 'cnb:apple_slices'}) // redundant
