@@ -1,0 +1,13 @@
+name = "Insatiable"
+filename = "insatiable-2.2-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "037448002468631fd31e89c41c0f8eaf5f1c1084"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3759459
+project-id = 518074
