@@ -3,7 +3,7 @@ onEvent('recipes', event => {
         'minecraft:glass_bottle',
         'minecraft:sugar',
         '2x minecraft:cocoa_beans',
-        Fluid.of('minecraft:milk', 1000)
+        Fluid.of('minecraft:milk', 250)
     ]).heated()
 
     event.recipes.createMixing('farmersdelight:apple_cider', [

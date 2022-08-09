@@ -611,6 +611,10 @@ file = "mods/crash-utilities.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-alloyed.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 metafile = true
 
@@ -803,6 +807,14 @@ file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fish-on-the-line.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fishing-real.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 metafile = true
 
@@ -928,6 +940,10 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-immersive-multiblocks.pw.toml"
 metafile = true
 
 [[files]]
