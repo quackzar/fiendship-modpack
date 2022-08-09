@@ -1,13 +1,13 @@
 name = "Untamed Wilds"
-filename = "untamedwilds-1.18.2-2.1.3.jar"
+filename = "untamedwilds-1.18.2-2.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "121f86ec574cd95a8ad16cb44de58179cbe13d76"
+hash = "08a1c2034f4cac3d11d10d70dadc3a74e5c5423c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3794273
+file-id = 3925087
 project-id = 457252
