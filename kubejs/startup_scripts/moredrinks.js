@@ -15,8 +15,9 @@ onEvent('recipes', event => {
     ]).heated()
 
 
-    event.recipes.createFilling('neapolitan:'+name+'_milkshake', [
+    event.recipes.createFilling('farmersdelight:hot_cocoa', [
         'minecraft:glass_bottle',
         Fluid.of('kubejs:hot_cocoa_liquid', 250)
     ])
+
 })

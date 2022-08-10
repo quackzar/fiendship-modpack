@@ -352,6 +352,9 @@ file = "config/supplementaries-registry.toml"
 file = "config/tetra.toml"
 
 [[files]]
+file = "config/untamedwilds-common.toml"
+
+[[files]]
 file = "fancymenu_data/last_world.fmdata"
 
 [[files]]
@@ -365,6 +368,18 @@ file = "global_packs/required_data/tetranomicon+tetra_pak_compat.zip"
 
 [[files]]
 file = "kubejs/startup_scripts/create-delight.js"
+
+[[files]]
+file = "kubejs/startup_scripts/milk.js"
+
+[[files]]
+file = "kubejs/startup_scripts/misc.js"
+
+[[files]]
+file = "kubejs/startup_scripts/moredrinks.js"
+
+[[files]]
+file = "kubejs/startup_scripts/remove-op.js"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -608,10 +623,6 @@ metafile = true
 
 [[files]]
 file = "mods/crash-utilities.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-alloyed.pw.toml"
 metafile = true
 
 [[files]]
@@ -1409,9 +1420,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/updated-engineering.pw.toml"
 metafile = true
-
-[[files]]
-file = "scripts/farmersdelight-create.zs"
 
 [[files]]
 file = "server-icon.png"
