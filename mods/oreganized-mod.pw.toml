@@ -1,13 +1,13 @@
 name = "Oreganized Mod"
-filename = "Oreganized_Mod-1.18.2-1.0.2.jar"
+filename = "Oreganized_Mod-1.18.2-1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f602883fc95fc68fb28abaf8a9ce10b57e9eb1c4"
+hash = "01fe76eeed577ae7bf5a00def69520b29d0d0ec4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3819472
+file-id = 3935261
 project-id = 439153

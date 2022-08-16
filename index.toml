@@ -259,6 +259,9 @@ file = "config/biometweaker/scripts/terralith.cfg"
 file = "config/create-client.toml"
 
 [[files]]
+file = "config/debugify.json"
+
+[[files]]
 file = "config/ecologics-common.toml"
 
 [[files]]
@@ -365,6 +368,9 @@ file = "global_packs/required_data/idasbop.zip"
 
 [[files]]
 file = "global_packs/required_data/tetranomicon+tetra_pak_compat.zip"
+
+[[files]]
+file = "kubejs/server_scripts/create_felt_blu.js"
 
 [[files]]
 file = "kubejs/startup_scripts/create-delight.js"
