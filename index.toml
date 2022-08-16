@@ -1132,6 +1132,10 @@ file = "mods/pretty-beaches.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 metafile = true
 
@@ -1197,10 +1201,6 @@ metafile = true
 
 [[files]]
 file = "mods/serverconfig-updater.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/serverstop.pw.toml"
 metafile = true
 
 [[files]]
