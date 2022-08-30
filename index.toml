@@ -1012,6 +1012,10 @@ file = "mods/map-atlases-forge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-storage-drawers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers.pw.toml"
 metafile = true
 
