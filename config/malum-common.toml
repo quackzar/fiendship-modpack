@@ -27,9 +27,9 @@
 		#Should soulstone ore generate underground?
 		generateSoulstone = true
 		#Size of soulstone ore veins underground.
-		soulstoneSize = 12
+		soulstoneSize = 10
 		#Amount of soulstone ore veins.
-		soulstoneAmount = 4
+		soulstoneAmount = 1
 		#Minimum height at which soulstone ore can spawn.
 		soulstoneMinY = -64
 		#Maximum height at which soulstone ore can spawn.
@@ -39,11 +39,11 @@
 		#Size of soulstone ore veins on the surface.
 		surfaceSoulstoneSize = 3
 		#Amount of soulstone ore veins on the surface.
-		surfaceSoulstoneAmount = 5
+		surfaceSoulstoneAmount = 1
 		#Minimum height at which surface soulstone ore can spawn.
 		surfaceSoulstoneMinY = 60
 		#Maximum height at which surface soulstone ore can spawn.
-		surfaceSoulstoneMaxY = 100
+		surfaceSoulstoneMaxY = 80
 
 	[worldgen.blazing_quartz]
 		#Should blaze quartz ore generate?
@@ -51,7 +51,7 @@
 		#Size of blaze quartz ore veins.
 		blazeQuartzSize = 14
 		#Amount of blaze quartz ore veins.
-		blazeQuartzAmount = 16
+		blazeQuartzAmount = 5
 
 [spirit]
 

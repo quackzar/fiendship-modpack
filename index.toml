@@ -620,6 +620,10 @@ file = "mods/connectible-chains-forge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 metafile = true
 
@@ -724,6 +728,10 @@ file = "mods/dramatic-doors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/drawerfps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/drp-global-datapack.pw.toml"
 metafile = true
 
@@ -808,6 +816,10 @@ file = "mods/fastfurnace.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 metafile = true
 
@@ -837,6 +849,10 @@ metafile = true
 
 [[files]]
 file = "mods/forgeendertech.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk-forge.pw.toml"
 metafile = true
 
 [[files]]
@@ -965,6 +981,10 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
 metafile = true
 
 [[files]]

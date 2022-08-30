@@ -1,0 +1,13 @@
+name = "DrawerFPS"
+filename = "drawerfps-1.18.2-2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e8772d23f842fa1fe034086a7d672d808c76cec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3781652
+project-id = 480816
