@@ -16,6 +16,11 @@ onEvent('recipes', event => {
         ['biomesoplenty:brimstone']
     )
 
+    event.recipes.createPressing([
+        Item.of('immersiveengineering:plate_steel'),
+        [Item.of('#forge:ingots/steel')]
+    ])
+
     event.recipes.createCrushing([
             Item.of('immersiveengineering:dust_sulfur').withChance(0.03),
             Item.of('pyromancer:brimstone').withChance(0.01)

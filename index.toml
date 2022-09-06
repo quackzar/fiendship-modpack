@@ -256,6 +256,9 @@ file = "config/biometweaker/scripts/incendium.cfg"
 file = "config/biometweaker/scripts/terralith.cfg"
 
 [[files]]
+file = "config/corn_delight-common.toml"
+
+[[files]]
 file = "config/create-client.toml"
 
 [[files]]
@@ -266,6 +269,9 @@ file = "config/ecologics-common.toml"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
+
+[[files]]
+file = "config/infernalmobs.cfg"
 
 [[files]]
 file = "config/jockeys-common.toml"
