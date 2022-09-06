@@ -304,6 +304,9 @@ file = "config/minecraft/overworld/lunar/events/enhancedcelestials-super_harvest
 file = "config/minecraft/overworld/lunar/lunar-settings.json"
 
 [[files]]
+file = "config/ortus-client.toml"
+
+[[files]]
 file = "config/quark-common.toml"
 
 [[files]]
