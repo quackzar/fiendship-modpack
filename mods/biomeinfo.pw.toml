@@ -1,13 +1,13 @@
 name = "BiomeInfo"
-filename = "biomeinfo-1.18.2-1.4.jar"
+filename = "biomeinfo-1.18.2-1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bd8251169e0a7765464aade50ded714cd98e9f9f"
+hash = "d4ea07625e3cfca2fe95f995875e391d9c69e5c6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3669737
+file-id = 3963673
 project-id = 291480

@@ -1,13 +1,13 @@
 name = "Global Packs"
-filename = "global_packs-forge-1.18.2-1.12.2.2_forge.jar"
+filename = "global_packs-forge-1.18.2-1.12.3_forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "08ac5365897fa3d82a949192fb346ee35d4d5126"
+hash = "b41ff45aa5d6d346e1dbe6200c70299691375ec0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3950139
+file-id = 3965521
 project-id = 317134
