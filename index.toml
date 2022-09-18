@@ -461,6 +461,10 @@ file = "mods/antighost.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/apple-crates.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -554,6 +558,10 @@ metafile = true
 
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/byg-crates.pw.toml"
 metafile = true
 
 [[files]]
@@ -989,6 +997,10 @@ file = "mods/just-enough-resources-jer.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/kiwi-boi.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 metafile = true
 
@@ -1017,6 +1029,10 @@ file = "mods/leap.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/left-hanging.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 metafile = true
 
@@ -1030,6 +1046,10 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/malumian-crates.pw.toml"
 metafile = true
 
 [[files]]
@@ -1050,6 +1070,10 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
 metafile = true
 
 [[files]]
@@ -1150,6 +1174,10 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/plenty-crates.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Left Hanging"
+filename = "LeftHanging-forge-1.18.2-3.2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad9d80cb2455882a7cc359f6f466a80bd81c9d5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3828074
+project-id = 532595

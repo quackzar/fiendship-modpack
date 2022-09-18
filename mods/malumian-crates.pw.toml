@@ -1,0 +1,13 @@
+name = "Malumian Crates"
+filename = "Malum Crates-forge-1.18.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9aaee314582a84dbacc997479ee0c7ae270cadb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3994532
+project-id = 670613

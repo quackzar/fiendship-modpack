@@ -1,0 +1,13 @@
+name = "Plenty Crates"
+filename = "Biomes o' Plenty Crates-forge-1.18.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7e3fd798ef99519a49f788084afc50bde5b98d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3994526
+project-id = 669343

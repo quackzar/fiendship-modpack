@@ -1,0 +1,13 @@
+name = "Byg Crates"
+filename = "BiomesYou'll Go Crates-forge-1.18.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "673ce7e8c97770bb143d97298fa1ccac87ed3994"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3994528
+project-id = 669657
