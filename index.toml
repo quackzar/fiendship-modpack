@@ -661,6 +661,10 @@ file = "mods/create-deco.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 metafile = true
 
@@ -885,6 +889,14 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/geode-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geode-o-plenty.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/grimoire-of-tetra.pw.toml"
 metafile = true
 
@@ -961,6 +973,10 @@ file = "mods/infernal-expansion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/infernal-geode.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/insatiable.pw.toml"
 metafile = true
 
@@ -1002,6 +1018,10 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
@@ -1270,6 +1290,10 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]

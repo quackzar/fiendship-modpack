@@ -1,0 +1,13 @@
+name = "Geode O' Plenty"
+filename = "GeodeOPlenty-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13708c95942ec518ca7decbfd5c197d78519b4f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3865396
+project-id = 630230

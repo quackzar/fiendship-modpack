@@ -1,0 +1,13 @@
+name = "Geode+"
+filename = "geode-1.1.3-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33e807d44b325b54644f7780b540a1cf3a8941b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3982023
+project-id = 620784

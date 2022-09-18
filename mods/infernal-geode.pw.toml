@@ -1,0 +1,13 @@
+name = "Infernal Geode"
+filename = "InfernalGeode-BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a30fb21c8c974f26c20dd710e0868d0d00819def"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3857516
+project-id = 639448
