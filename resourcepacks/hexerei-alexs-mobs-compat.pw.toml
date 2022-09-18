@@ -1,0 +1,13 @@
+name = "Hexerei + Alex's Mobs Compat"
+filename = "Hexerei_AlexsMobs_Crow_Compat_v1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5084df77c068b13e6bcc15ab716d2681fafa7d3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3807319
+project-id = 628291

@@ -1437,6 +1437,10 @@ file = "resourcepacks/gui-retextures.pw.toml"
 metafile = true
 
 [[files]]
+file = "resourcepacks/hexerei-alexs-mobs-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 metafile = true
 
